@@ -27,3 +27,4 @@ teads.tv, 12118, DIRECT, 15a9c44f6d26cbe1
 triplelift.com, 3152, DIRECT
 yieldmo.com, 1164496325591808848, DIRECT
 yieldmo.com, Healthline.com, DIRECT
+yldbt.com, 50f6fc092f17b800b897d764, DIRECT, cd184cb30abaabb5
