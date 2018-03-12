@@ -1,4 +1,5 @@
-aolcloud.net, 9502, DIRECT
+adtech.com, 9502, DIRECT
+aol.com, 28718, DIRECT
 appnexus.com, 3844, DIRECT
 appnexus.com, 1908, RESELLER
 appnexus.com, 7944, RESELLER
