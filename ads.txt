@@ -11,6 +11,8 @@ districtm.io, 100562, DIRECT
 facebook.com, 738762996262850, DIRECT
 google.com, pub-4771166113579725, DIRECT, f08c47fec0942fa0
 google.com, pub-9428411717556527, DIRECT, f08c47fec0942fa0
+google.com, pub-9816692645014906, DIRECT, f08c47fec0942fa0
+google.com, pub-6622376043919941, DIRECT, f08c47fec0942fa0
 indexexchange.com, 175407, RESELLER
 indexexchange.com, 180447, DIRECT, 50b1c356f2c5c8fc
 indexexchange.com, 184230, RESELLER, 50b1c356f2c5c8fc
