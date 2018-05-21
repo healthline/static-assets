@@ -8,6 +8,7 @@ appnexus.com, 6979, RESELLER, f5ab79cb980f11d1
 c.amazon-adsystem.com, 3083, DIRECT
 coxmt.com, 2000067907202, RESELLER
 districtm.io, 100562, DIRECT
+experian.com, EXP_724809_A, RESELLER
 facebook.com, 738762996262850, DIRECT
 google.com, pub-4771166113579725, DIRECT, f08c47fec0942fa0
 google.com, pub-9428411717556527, DIRECT, f08c47fec0942fa0
