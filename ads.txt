@@ -6,6 +6,7 @@ appnexus.com, 1908, RESELLER, c8eb2322b857bba6
 appnexus.com, 7944, RESELLER, c8eb2322b857bba6
 appnexus.com, 6979, RESELLER, f5ab79cb980f11d1
 c.amazon-adsystem.com, 3083, DIRECT, c8eb2322b857bba6
+conversantmedia.com, 41024, RESELLER
 coxmt.com, 2000067907202, RESELLER, c8eb2322b857bba6
 districtm.io, 100562, DIRECT, c8eb2322b857bba6
 experian.com, EXP_724809_A, RESELLER, c8eb2322b857bba6
