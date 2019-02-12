@@ -35,3 +35,36 @@ teads.tv, 12118, DIRECT, 15a9c44f6d26cbe1
 triplelift.com, 3152, DIRECT, c8eb2322b857bba6
 yieldmo.com, 1164496325591808848, DIRECT, c8eb2322b857bba6
 yieldmo.com, Healthline.com, DIRECT, c8eb2322b857bba6
+rtb.selectmedia.asia, 271, DIRECT # banner, video
+spotxchange.com, 82810, RESELLER, 7842df1d2fe2db34
+spotx.tv, 82810, RESELLER, 7842df1d2fe2db34
+Advertising.com, 7060, RESELLER
+adtech.com, 7060, RESELLER
+beachfront.com, 2779, DIRECT, e2541279e8e2ca4d
+freewheel.tv, 144617, RESELLER
+freewheel.tv, 144633, RESELLER
+improvedigital.com, 1091, DIRECT
+improvedigital.com, 1091, RESELLER
+contextweb.com, 560456, RESELLER, 89ff185a4c4e857c 
+pubmatic.com, 157288, DIRECT, 5d62403b186f2ace
+tremorhub.com, cguke-k8ex0, RESELLER, 1a4e959a1b50034a
+pubmatic.com, 157512, DIRECT, 5d62403b186f2ace
+districtm.io, 101673, DIRECT
+appnexus.com, 1908, RESELLER, f5ab79cb980f11d1
+gumgum.com, 13679, DIRECT, ffdef49475d318a9
+advertising.com, 28230, RESELLER
+freewheel.tv, 146905,RESELLER
+freewheel.tv, 202433,RESELLER
+freewheel.tv, 202681, RESELLER 
+freewheel.tv, 202609, RESELLER
+freewheel.tv, 146921, RESELLER
+freewheel.tv, 147281, RESELLER 
+freewheel.tv, 203225, RESELLER 
+freewheel.tv, 147289, RESELLER
+freewheel.tv, 202881, RESELLER
+freewheel.tv, 846129, RESELLER
+freewheel.tv, 846145, RESELLER
+freewheel.tv, 890577, RESELLER
+freewheel.tv, 893377, RESELLER
+tremorhub.com, iq97d, RESELLER, 1a4e959a1b50034a
+tremorhub.com, 3e8fs, RESELLER, 1a4e959a1b50034a
