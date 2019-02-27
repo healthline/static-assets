@@ -74,3 +74,7 @@ EMXDGT.com, 1044, RESELLER 1e1d41537f7cad7f
 Appnexus.com, 1356, RESELLER, f5ab79cb980f11d1
 sharethrough.com, 0d60edd5, RESELLER
 sonobi.com, 83729e979b, RESELLER
+video.unrulymedia.com, UNRX-PUB-UNRX-PUB-90438156-9fd8-4dd1-8d04-04d0741033f6, DIRECT
+indexexchange.com, 182257, RESELLER
+appnexus.com, 6849, RESELLER
+rubiconproject.com, 15268, RESELLER
