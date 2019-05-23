@@ -1,0 +1,315 @@
+
+<!doctype html>
+<html lang="en" class="view html5-player">
+<head>
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+
+        <script type="text/javascript">
+            (function () {
+                var locationWithNoQuery = document.location.href.split('?')[0];
+                if (document.location.pathname.match(/\.html$/)) {
+                    window.cerosBaseUrl = locationWithNoQuery.replace(/[^\/]*\.html$/, '');
+                }
+                else {
+                    window.cerosBaseUrl = locationWithNoQuery.replace(/(p|page)\/[a-z0-9-]*\/?$/, '');
+                }
+                document.write("<base href='" + window.cerosBaseUrl + "' />");
+            })();
+        </script>
+
+
+        <script type="text/javascript" src="assets/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+
+    <script type="text/javascript" src="assets/webfont-1.6.3.js"></script>
+
+    <script type="text/javascript">
+        window.cerosContext = {
+        viewAssetsDomain    : '',
+            publicAssetsBaseUrl: 'assets/',
+            isEmbedded: top != window,
+            isVanityDomain: location.hostname !== 'view.ceros.com',
+            previewMode: false,
+            logging: {
+            emitDevWarnings : false,
+                modes: {
+                        'debug': false,
+                        'info': false,
+                        'warn': true,
+                        'error': true
+                }
+            },
+            usePageSlugsInNavigation: false,
+            usePreviewBanner: false,
+            useDocumentLoadingSpinner: true,
+            analyticsApplicationKey: 'player',
+            analyticsMaxDwellTime: 1800,
+            analyticsUrl: '',
+            apiVersion: 'v1',
+            revalidateWithCore: false,
+
+            ajaxCaching: true,
+        mediaDomainMap: null,
+            rollbarPlayerAccessKey: '61d7450b926c4268b5f89b75862f33a9',
+            deploymentName: 'prod',
+            appVersion: '5.77.1',
+            rollbarMaxItems: 5,
+        isExported: true,
+            isStudio: false,
+
+            accountSlug: 'greatist',
+        gracePeriodExpired  : 9223372036854775807 < Date.now() / 1000,
+            appSlug: 'sleep',
+            issueAliasSlug: 'inspiration-lookbook-1',
+            issue: {"id":131322,"title":"Sleep Infographic-Desktop","name":"Sleep Infographic-Desktop","slug":"experience-5abbabf1c3874","status":"published","projectId":20983,"wipExperienceVersionId":364954,"publishedExperienceVersionId":433714,"createdByMemberId":8611,"primaryIssueAliasId":186749,"creationDate":"Wed, 28 Mar 2018 10:51:29 -0400","lastModifiedDate":"Tue, 10 Jul 2018 11:37:45 -0400","firstPublishedDate":"Thu, 29 Mar 2018 11:16:19 -0400","firstPageThumbnailUrl":"\/\/media-s3-us-east-1.ceros.com\/greatist\/studio-thumbnails\/page-5abbabf12180a.jpg","importLinkShared":false,"lastPublishedDate":"Tue, 10 Jul 2018 11:37:53 -0400","lastModifiedByMemberId":8611,"lastPublishedByMemberId":8611,"passwordProtected":false},
+            docVersion: {"id":433714,"slug":"experience-version-5b44d2d192cb8","loadLowRes":true,"seoNoIndex":false,"committedJsonUrl":"http:\/\/media-s3-us-east-1.ceros.com\/greatist\/doc-version-json\/v12\/experience-version-5b44d2d192cb8.js","seoTitleKeywords":"","seoMetaKeywords":"","seoMetaDescription":"","canonicalUrlOverride":"","editorPagesManifest":[{"uri":"\/v1\/account\/greatist\/pages\/page-5b44d2d192d9a","initiallyDisabled":false,"thumbnail":"media\/dfa814bff36bdfe1f28f311dbefab893\/page-thumbnail-crop.jpg"}],"seoNoscriptHtml":"","customerBodyHtml":"","exportUrl":"","exportAppVersion":"","experienceId":131322,"committedByMemberId":8611,"creationDate":"Tue, 10 Jul 2018 11:37:53 -0400","modifiedDate":"Tue, 10 Jul 2018 11:37:53 -0400","publishedDate":"Tue, 10 Jul 2018 11:37:53 -0400","lazyLoading":false,"forceLineMode":false,"layoutSettings":{"layoutPrimarySetting":null,"maxTabletWidthBreakpoint":null,"maxMobileWidthBreakpoint":null,"deviceTypeMissingVariantFallback":null},"carousel":{"enabled":false,"autoTransition":0,"autoTransitionDelay":5},"theming":{"arrowsEnabled":true,"swipeEnabled":true,"menuEnabled":true,"backgroundColor":"#FFFFFF","menuFgColor":"#FFFFFF","menuBgColor":"#000000","backgroundImage":null}},
+            fontManifest: {"Google|Roboto|400|normal":{"familyName":"Roboto","familyGuid":"Google|Roboto","fontWeight":"400","fontStyle":"normal","unitsPerEm":"2048","ascent":"1536","variantGuid":"Google|Roboto|400|normal","variantName":"Normal","cssFileURL":null,"cssFamilyName":"Roboto","crossAccount":false,"api":"Google","woffFileURL":null},"Google|Vibur|400|normal":{"familyName":"Vibur","familyGuid":"Google|Vibur","fontWeight":"400","fontStyle":"normal","unitsPerEm":"2048","ascent":"1638","variantGuid":"Google|Vibur|400|normal","variantName":"Normal","cssFileURL":null,"cssFamilyName":"Vibur","crossAccount":false,"api":"Google","woffFileURL":null},"Uploaded|d5c039a5-3d30-11e8-88f3-0e55d9bc9e68":{"familyName":"Circular Pro Book","familyGuid":"Uploaded|d3cf98c5-3d30-11e8-88f3-0e55d9bc9e68","fontWeight":400,"fontStyle":"normal","unitsPerEm":"1000","ascent":"809","variantGuid":"Uploaded|d5c039a5-3d30-11e8-88f3-0e55d9bc9e68","variantName":"Normal","cssFileURL":"fonts\/7830c04b-db74-4624-90d9-4d017265aac3\/circularpro-book.css","cssFamilyName":"Circular Pro Book-Norm-0wuHi23i","crossAccount":false,"api":"Uploaded"},"Uploaded|d5c03e75-3d30-11e8-88f3-0e55d9bc9e68":{"familyName":"Circular Pro Black","familyGuid":"Uploaded|d3cf9aa0-3d30-11e8-88f3-0e55d9bc9e68","fontWeight":400,"fontStyle":"normal","unitsPerEm":"1000","ascent":"809","variantGuid":"Uploaded|d5c03e75-3d30-11e8-88f3-0e55d9bc9e68","variantName":"Normal","cssFileURL":"fonts\/ea1f4fb9-56fd-43a5-ad8f-554b1c745677\/circularpro-black.css","cssFamilyName":"Circular Pro Black-Nor-1GKTN7Ge","crossAccount":false,"api":"Uploaded"}},
+        googleAnalyticsId   : 'UA-20914064-2',
+        showCerosBranding   : false,
+        allowEmbedding      : true,
+        isTrialAccount      : false,
+        noAnalyticsTracking       : false,
+        allowCommerceIntegration  : false,
+        allowLightboxes           : true,
+        allowEmbeddedPlayerSdk    : false,
+        allowAdaptiveLayouts: false,
+            commerceSettings: {
+            panelWidth      : null,
+            panelHeight     : null,
+                productUrl: '',
+                shoppingCartUrl: '',
+            },
+                themeObj: {
+                arrowsEnabled    : true,
+                swipeEnabled     : true,
+                menuEnabled      : true,
+                    menuFgColor: '#FFFFFF',
+                    menuBgColor: '#000000',
+                    menuHoverOpacity: 0.6,
+                    backgroundColor: '#FFFFFF',
+                backgroundImage  :
+                        null
+
+                },
+            googleFontUrl: '',
+            featureFlags: {"New Inspector Panel":false,"Password Protected Experiences":false}
+        };
+    </script>
+
+    <!--
+      DISPLAY SETTINGS
+    -->
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+    <meta name="apple-mobile-web-app-capable" content="yes">
+
+    <meta name="monitor-signature" content="monitor:player:html5"/>
+
+    <title>Sleep Infographic-Desktop</title>
+
+
+
+
+    <meta property="og:title" content="Sleep Infographic-Desktop"/>
+        <meta property="og:image" content="media/dfa814bff36bdfe1f28f311dbefab893/page-thumbnail-crop.jpg"/>
+    <meta property="og:description" content=""/>
+    <meta property="og:url" content=""/>
+    <meta property="og:type" content="website"/>
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Sleep Infographic-Desktop">
+    <meta name="twitter:description" content="">
+        <meta name="twitter:image" content="media/dfa814bff36bdfe1f28f311dbefab893/page-thumbnail-crop.jpg">
+
+    <script language="Javascript" id="docversion-request-script">
+        window.docVersionRequest = window.jQuery.ajax({
+            url           : "media/experience-version-5b44d2d192cb8.js",
+            dataType      : 'jsonp',
+            jsonp         : false, 
+            cache         : true,  
+            jsonpCallback : "loadDocVersion_v1_account_greatist_document_versions_experience_version_5b44d2d192cb8",
+            success       : window.jQuery.noop 
+        });
+    </script>
+
+    <!--
+      FONTS
+    -->
+
+    
+    <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+    
+    </script>
+    
+
+
+
+    <script type="text/javascript">
+        window.cerosPlayerLoadStart = new Date();
+    </script>
+
+    <script
+            type="text/javascript"
+            crossorigin="anonymous"
+            src="assets/player/shared/libs/require/require-min.b03b66057d7df9b2cc9aa9c4c18aa569.js">
+    </script>
+
+    <script
+            type="text/javascript"
+            async
+            crossorigin="anonymous"
+            charset="UTF-8"
+            src="assets/player/applications/html5-player/bootstrap-optimized.a14e0d1f372da1686ddffddc3b2701b6.js">
+    </script>
+
+    <link rel="stylesheet" type="text/css"
+          href="assets/player/applications/html5-player/css/html5-player.21fd94aa6ac87fa43dabff158778e0e2.css"/>
+
+    <style>
+        body {
+            background-color: #FFFFFF;
+        }
+
+        body:-ms-fullscreen::-ms-backdrop {
+            background-color: #FFFFFF;
+        }
+    </style>
+
+</head>
+<body>
+
+
+        <!-- Google Tag Manager -->
+        <noscript>
+            <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KDNLDXG"
+                    height="0" width="0" style="display:none;visibility:hidden"></iframe>
+        </noscript>
+        <script>(function (w, d, s, l, i) {
+            w[l] = w[l] || [];
+            w[l].push({
+                'gtm.start': new Date().getTime(), event: 'gtm.js'
+            });
+            var f = d.getElementsByTagName(s)[0],
+                    j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+            j.async = true;
+            j.src =
+                    '//www.googletagmanager.com/gtm.js?id=' + i + dl;
+            f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-KDNLDXG');</script>
+        <!-- End Google Tag Manager -->
+
+
+
+    <noscript>
+        
+            <div id="page-5b44d2d192d9a" class="page"><img src="media/de3e126a3c8ca1312887933f2cf91ff6/sleep-illustration-body-04-full.png" alt="" id="" class="image-component" />
+<img src="media/8dcf1ac9f6508a4023e98d42d191498b/sleep-illustration-body-08-full.png" alt="" id="" class="image-component" />
+<div id="" class="text-component">Both obstructive sleep apnea and habitual short sleep duration are associated with poor cardiovascular health. Part of this is due to how sleep regulates the hormones that control our metabolism, including insulin, ghrelin (hunger), and leptin (satiety), Jun explains. He recently authored a study that showed how sleep apnea instantly affects the metabolism overnight, causing a cumulative damage that could lead to heart disease or diabetes. </div>
+<div id="" class="text-component">For older adults, obstructive sleep apnea is usually the result of being overweight, but children and young adults usually experience it due to enlarged tonsils or an elongated soft palate, Siegel says. That means they can often solve their issues with a tonsillectomy—instead of nightly use of a CPAP machine to help them breathe. </div>
+<img src="media/eecdf97f22b68c849daa30189536b757/cancel-icon.svg" alt="" id="" class="image-component" />
+<div id="" class="text-component">"A number of hormones either stop flowing or start flowing when we sleep," Jonathan Jun, M.D., an assistant professor of medicine at Johns Hopkins University, tells Greatist. Under healthy circumstances, our cortisol level goes down at night, while our growth hormone level increases. </div>
+<div id="" class="text-component">"There is a decrease in the amount of testosterone secreted at night if you don't sleep optimally," Siegel says, explaining how sleep can affect your sex drive. That's making those CPAP machines look a little sexier, no?</div>
+<div id="" class="text-component">SKIN</div>
+<img src="media/eecdf97f22b68c849daa30189536b757/cancel-icon.svg" alt="" id="" class="image-component" />
+<div id="" class="text-component">Here's a chicken-and-egg conundrum: Increased abdominal fat is one of the causes of sleep apnea, and sleep apnea is a cause of weight gain, due to the hormonal imbalances it can trigger.</div>
+<img src="media/4e3eabcca28e7114ac2303d75b7b9e65/plus-icon.svg" alt="" id="" class="image-component" />
+<div id="" class="text-component">NOSE</div>
+<div id="" class="text-component">As we drift from consciousness into slow-wave sleep, our brain gets to work shifting short-term memories into long-term ones. But lack of sleep impairs the brain's cognitive function—staying awake for 20 hours is basically the equivalent of having a blood alcohol level of .10%. Sleep also affects attention, so much that children with sleep disorders show the same symptoms as someone with ADHD. </div>
+<img src="media/4e3eabcca28e7114ac2303d75b7b9e65/plus-icon.svg" alt="" id="" class="image-component" />
+<div id="" class="text-component">Both people with sleep apnea and people whose circadian rhythm is all out of whack from working night shifts have been shown to have a higher risk for developing type 2 diabetes. </div>
+<div id="" class="text-component">What to do when you suck at sleeping</div>
+<img src="media/4e3eabcca28e7114ac2303d75b7b9e65/plus-icon.svg" alt="" id="" class="image-component" />
+<img src="media/3311264359ef03a3746873c8e190c69f/sleep-illustration-body-10-full.png" alt="" id="" class="image-component" />
+<div id="" class="text-component">PANCREAS
+</div>
+<div id="" class="text-component">When I was a kid, my mother used to tell me that I needed to sleep in order to grow taller. For years, I'd just assumed that was something she made up to get me to go to bed, but it turns out she was right: Growth hormone secretion is just one of the many bodily functions that happens when we sleep. Maybe the misconception that our bodies are completely inactive when we're napping is one of the reasons a third of Americans don't get enough shut-eye, according to the CDC. It's not just about rest. 
+
+ "There are very discreet physiological stages that take place through the night," Noah Siegel, M.D., an instructor of otolaryngology at Harvard Medical School, tells Greatist. Here we map out some of the ways sleeping, or not sleeping, affect you from head to toe.  
+</div>
+<img src="media/4e3eabcca28e7114ac2303d75b7b9e65/plus-icon.svg" alt="" id="" class="image-component" />
+<img src="media/a7e36bd45f7e7a6bbf1687ecc0a808ea/gettyimages-804712518-converted-03-full.png" alt="" id="" class="image-component" />
+<div id="" class="text-component">While some studies have found a correlation between osteoporosis and sleep apnea, others have pointed to prolonged sleep as a risk factor for lower bone density. The jury's still out on this one.</div>
+<img src="media/eecdf97f22b68c849daa30189536b757/cancel-icon.svg" alt="" id="" class="image-component" />
+<img src="media/b9834c51911e727c4509ffbdbe837bd7/arrow-icon.svg" alt="" id="" class="image-component" />
+<img src="media/f95a18b9309486f58bf39399db971abb/sleep-illustration-body-07-full.png" alt="" id="" class="image-component" />
+<img src="media/4e3eabcca28e7114ac2303d75b7b9e65/plus-icon.svg" alt="" id="" class="image-component" />
+<img src="media/d4e1fe01c75e14668a17d15cd18cd90c/gettyimages-616218656-converted-1024px-full.jpg" alt="" id="" class="image-component" />
+<div id="" class="text-component">Teens and young adults sometimes suffer from delayed sleep phase disorder, a.k.a. being night owls. When you still have to get up in the morning to work, that's a problem. "If that sounds like you, there are ways to help—including schedule changes, medication, and light therapy," Jun says. If you make these changes,  you may find yourself suddenly much better at your job.</div>
+<img src="media/eecdf97f22b68c849daa30189536b757/cancel-icon.svg" alt="" id="" class="image-component" />
+<div id="" class="text-component">7 Things You Need to Stop Doing If You Want to Sleep Better</div>
+<div id="" class="text-component">What Makes Someone a Heavy Sleeper (and How Do You Become One)?</div>
+<img src="media/4e3eabcca28e7114ac2303d75b7b9e65/plus-icon.svg" alt="" id="" class="image-component" />
+<img src="media/eecdf97f22b68c849daa30189536b757/cancel-icon.svg" alt="" id="" class="image-component" />
+<img src="media/eecdf97f22b68c849daa30189536b757/cancel-icon.svg" alt="" id="" class="image-component" />
+<div id="" class="text-component">BY Sabrina Weiss</div>
+<div id="" class="text-component">Professional and amateur athletes perform better when they sleep well. In addition to resting their muscles, this could be because their brains are working better, and because sleep helps regulate inflammation...which sounds like a great excuse for hitting snooze a couple of times before going to the gym tomorrow.</div>
+<img src="media/f06b01e8f63d2ca86381e186a88e5ca2/sleep-illustration-body-11-full.png" alt="" id="" class="image-component" />
+<div id="" class="text-component">If you're looking to trade all-night partying for a longtime commitment, sleeping well is key. For one, sleep deprivation makes you irritable. For another, if you have an undiagnosed snoring or sleep apnea problem, you won't have a happy bed partner.</div>
+<img src="media/044461f13706fa4e81910b1eec1bb234/phonebed-full.jpg" alt="" id="" class="image-component" />
+<img src="media/eecdf97f22b68c849daa30189536b757/cancel-icon.svg" alt="" id="" class="image-component" />
+<img src="media/de78223f5b8ea2b263490cba61ec2bba/nighttimedrinksfeature-full.jpg" alt="" id="" class="image-component" />
+<img src="media/17cf71b8c4142ca6581f18957a9ef45f/sleep-illustration-body-13-full.png" alt="" id="" class="image-component" />
+<img src="media/4e3eabcca28e7114ac2303d75b7b9e65/plus-icon.svg" alt="" id="" class="image-component" />
+<div id="" class="text-component">BRAIN</div>
+<img src="media/eecdf97f22b68c849daa30189536b757/cancel-icon.svg" alt="" id="" class="image-component" />
+<img src="media/48b72ec492942ea2bd6f324f3fb8c7a4/sleep-illustration-body-01-full.png" alt="" id="" class="image-component" />
+<img src="media/4e3eabcca28e7114ac2303d75b7b9e65/plus-icon.svg" alt="" id="" class="image-component" />
+<div id="" class="text-component">An Illustrated Guide To</div>
+<img src="media/eecdf97f22b68c849daa30189536b757/cancel-icon.svg" alt="" id="" class="image-component" />
+<div id="" class="text-component">Caught too many colds this winter? That could be another side effect of not sleeping.  "You have lower levels of anti-inflammatory cells circulating in your system if you don't allow your body to restore itself over the course of the night," Siegel said. </div>
+<img src="media/4e3eabcca28e7114ac2303d75b7b9e65/plus-icon.svg" alt="" id="" class="image-component" />
+<div id="" class="text-component">BELLY</div>
+<div id="" class="text-component">MOUTH/TONSILS</div>
+<div id="" class="text-component">HEART</div>
+<div id="" class="text-component">Beauty sleep isn't such a myth. "We're starting to see that with sleep deprivation, we're more likely to see more prominent aging changes," Siegel says. "Skin is one of those." </div>
+<img src="media/fadec031bf59a6b819aaa1b0c170abbb/sleep-illustration-body-12-full.png" alt="" id="" class="image-component" />
+<div id="" class="text-component">HYPOTHALAMUS, PITUITARY, AND ADRENAL GLAND</div>
+<img src="media/06b0944a7c75c84b23abd2f6499cb18a/sleep-illustration-body-09-full.png" alt="" id="" class="image-component" />
+<img src="media/eecdf97f22b68c849daa30189536b757/cancel-icon.svg" alt="" id="" class="image-component" />
+<div id="" class="text-component"> REPRODUCTIVE ORGANS</div>
+<img src="media/4e3eabcca28e7114ac2303d75b7b9e65/plus-icon.svg" alt="" id="" class="image-component" />
+<img src="media/bf72c0100344931debaefb1fe9cf0c65/gettyimages-804712518-converted-04-full.png" alt="" id="" class="image-component" />
+<div id="" class="text-component">More from</div>
+<img src="media/ac07532ed8c5e54e3c48ac022414c113/sleep-illustration-body-03-full.png" alt="" id="" class="image-component" />
+<img src="media/93dc39d63d62d3cd73545d30689d2e91/sleep-illustration-body-05-full.png" alt="" id="" class="image-component" />
+<img src="media/4e3eabcca28e7114ac2303d75b7b9e65/plus-icon.svg" alt="" id="" class="image-component" />
+<div id="" class="text-component">LEGS</div>
+<img src="media/eecdf97f22b68c849daa30189536b757/cancel-icon.svg" alt="" id="" class="image-component" />
+<img src="media/09405a75e1a12008a7adeb58ae73c6ca/sleep-illustration-body-14-full.png" alt="" id="" class="image-component" />
+<img src="media/ddcfac0a000ef7684a59c43cddd075c4/girlsleeping-full.jpg" alt="" id="" class="image-component" />
+<div id="" class="text-component">RING FINGER</div>
+<div id="" class="text-component">19 Sleep-Inducing Drinks 
+to Sip Before Bed</div>
+<div id="" class="text-component">Sleep And The Body</div>
+<img src="media/4e3eabcca28e7114ac2303d75b7b9e65/plus-icon.svg" alt="" id="" class="image-component" />
+<img src="media/ed6ddf7331f1b959035a86a869a25a87/sleep-illustration-body-06-full.png" alt="" id="" class="image-component" />
+<div id="" class="text-component">BONES</div>
+<img src="media/eecdf97f22b68c849daa30189536b757/cancel-icon.svg" alt="" id="" class="image-component" />
+<img src="media/4e3eabcca28e7114ac2303d75b7b9e65/plus-icon.svg" alt="" id="" class="image-component" />
+<img src="media/d0847a8d1a4d005261a236b93c66b374/sleep-illustration-body-02-full.png" alt="" id="" class="image-component" />
+<div id="" class="text-component">ATTENTION</div>
+<img src="media/97eb8a78c9407da53ca36da4a2454835/gettyimages-804712518-converted-02-full.png" alt="" id="" class="image-component" />
+<img src="media/eecdf97f22b68c849daa30189536b757/cancel-icon.svg" alt="" id="" class="image-component" /></div>
+    </noscript>
+
+
+<div id="main"></div>
+<div id="backgroundContainer"></div>
+
+
+
+    <!-- BEGIN CUSTOM HTML -->
+    
+    <!-- END CUSTOM HTML -->
+
+
+
+
+
+
+</body>
+</html>

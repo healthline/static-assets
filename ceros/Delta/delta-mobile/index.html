@@ -1,0 +1,306 @@
+
+<!doctype html>
+<html lang="en" class="view html5-player">
+<head>
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+
+        <script type="text/javascript">
+            (function () {
+                var locationWithNoQuery = document.location.href.split('?')[0];
+                if (document.location.pathname.match(/\.html$/)) {
+                    window.cerosBaseUrl = locationWithNoQuery.replace(/[^\/]*\.html$/, '');
+                }
+                else {
+                    window.cerosBaseUrl = locationWithNoQuery.replace(/(p|page)\/[a-z0-9-]*\/?$/, '');
+                }
+                document.write("<base href='" + window.cerosBaseUrl + "' />");
+            })();
+        </script>
+
+
+        <script type="text/javascript" src="assets/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+
+    <script type="text/javascript" src="assets/webfont-1.6.3.js"></script>
+
+    <script type="text/javascript">
+        window.cerosContext = {
+        viewAssetsDomain    : '',
+            publicAssetsBaseUrl: 'assets/',
+            isEmbedded: top != window,
+            isVanityDomain: location.hostname !== 'view.ceros.com',
+            previewMode: false,
+            logging: {
+            emitDevWarnings : false,
+                modes: {
+                        'debug': false,
+                        'info': false,
+                        'warn': true,
+                        'error': true
+                }
+            },
+            usePageSlugsInNavigation: false,
+            usePreviewBanner: false,
+            useDocumentLoadingSpinner: true,
+            analyticsApplicationKey: 'player',
+            analyticsMaxDwellTime: 1800,
+            analyticsUrl: '',
+            apiVersion: 'v1',
+            revalidateWithCore: false,
+
+            ajaxCaching: true,
+        mediaDomainMap: null,
+            rollbarPlayerAccessKey: '61d7450b926c4268b5f89b75862f33a9',
+            deploymentName: 'prod',
+            appVersion: '5.77.1',
+            rollbarMaxItems: 5,
+        isExported: true,
+            isStudio: false,
+
+            accountSlug: 'greatist',
+        gracePeriodExpired  : 9223372036854775807 < Date.now() / 1000,
+            appSlug: 'delta-sweatlag',
+            issueAliasSlug: 'delta-mobile',
+            issue: {"id":152045,"title":"Delta Sweatlag International Infographic-Mobile","name":"Delta Sweatlag International Infographic-Mobile","slug":"experience-5b44aef8727ea","status":"published","projectId":23413,"wipExperienceVersionId":433471,"publishedExperienceVersionId":579590,"createdByMemberId":8611,"primaryIssueAliasId":213026,"creationDate":"Tue, 10 Jul 2018 09:04:56 -0400","lastModifiedDate":"Fri, 11 Jan 2019 17:30:13 -0500","firstPublishedDate":"Tue, 10 Jul 2018 09:47:38 -0400","firstPageThumbnailUrl":"\/\/media-s3-us-east-1.ceros.com\/greatist\/studio-thumbnails\/page-5b44aef821f84.jpg","importLinkShared":false,"lastPublishedDate":"Fri, 11 Jan 2019 17:32:34 -0500","lastModifiedByMemberId":11725,"lastPublishedByMemberId":11725,"passwordProtected":false},
+            docVersion: {"id":579590,"slug":"experience-version-5c391982aa8ba","loadLowRes":true,"seoNoIndex":false,"committedJsonUrl":"http:\/\/media-s3-us-east-1.ceros.com\/greatist\/doc-version-json\/v11\/experience-version-5c391982aa8ba.js","seoTitleKeywords":"","seoMetaKeywords":"","seoMetaDescription":"","canonicalUrlOverride":"","editorPagesManifest":[{"uri":"\/v1\/account\/greatist\/pages\/page-5c391982aa9a3","initiallyDisabled":false,"thumbnail":"media\/a228bf5c6c32fbedb72717a028ab0c51\/page-thumbnail.jpg"}],"seoNoscriptHtml":"","customerBodyHtml":"","experienceId":152045,"committedByMemberId":11725,"creationDate":"Fri, 11 Jan 2019 17:32:34 -0500","modifiedDate":"Fri, 11 Jan 2019 17:32:34 -0500","publishedDate":"Fri, 11 Jan 2019 17:32:34 -0500","unsupportedBrowserRedirectUrl":"","ogTitle":"","ogDescription":"","twitterTitle":"","twitterDescription":"","twitterHandle":"","lazyLoading":true,"forceLineMode":false,"layoutSettings":{"layoutPrimarySetting":null,"maxTabletWidthBreakpoint":null,"maxMobileWidthBreakpoint":null,"deviceTypeMissingVariantFallback":null},"carousel":{"enabled":false,"autoTransition":0,"autoTransitionDelay":5},"theming":{"arrowsEnabled":true,"swipeEnabled":true,"menuEnabled":false,"backgroundColor":"#FFFFFF","menuFgColor":"#FFFFFF","menuBgColor":"#000000","backgroundImage":null}},
+            fontManifest: {"Google|Roboto|400|normal":{"familyName":"Roboto","familyGuid":"Google|Roboto","fontWeight":"400","fontStyle":"normal","unitsPerEm":"2048","ascent":"1536","variantGuid":"Google|Roboto|400|normal","variantName":"Normal","cssFileURL":null,"cssFamilyName":"Roboto","crossAccount":false,"api":"Google","woffFileURL":null},"Uploaded|d5c039a5-3d30-11e8-88f3-0e55d9bc9e68":{"familyName":"Circular Pro Book","familyGuid":"Uploaded|d3cf98c5-3d30-11e8-88f3-0e55d9bc9e68","fontWeight":400,"fontStyle":"normal","unitsPerEm":"1000","ascent":"809","variantGuid":"Uploaded|d5c039a5-3d30-11e8-88f3-0e55d9bc9e68","variantName":"Normal","cssFileURL":"fonts\/7830c04b-db74-4624-90d9-4d017265aac3\/circularpro-book.css","cssFamilyName":"Circular Pro Book-Norm-0wuHi23i","crossAccount":false,"api":"Uploaded"},"Uploaded|d5c03e75-3d30-11e8-88f3-0e55d9bc9e68":{"familyName":"Circular Pro Black","familyGuid":"Uploaded|d3cf9aa0-3d30-11e8-88f3-0e55d9bc9e68","fontWeight":400,"fontStyle":"normal","unitsPerEm":"1000","ascent":"809","variantGuid":"Uploaded|d5c03e75-3d30-11e8-88f3-0e55d9bc9e68","variantName":"Normal","cssFileURL":"fonts\/ea1f4fb9-56fd-43a5-ad8f-554b1c745677\/circularpro-black.css","cssFamilyName":"Circular Pro Black-Nor-1GKTN7Ge","crossAccount":false,"api":"Uploaded"}},
+        googleAnalyticsId   : 'UA-20914064-2',
+        showCerosBranding   : false,
+        allowEmbedding      : true,
+        isTrialAccount      : false,
+        noAnalyticsTracking       : false,
+        allowCommerceIntegration  : false,
+        allowLightboxes           : true,
+        allowEmbeddedPlayerSdk    : false,
+        allowAdaptiveLayouts: false,
+            commerceSettings: {
+            panelWidth      : null,
+            panelHeight     : null,
+                productUrl: '',
+                shoppingCartUrl: '',
+            },
+                themeObj: {
+                arrowsEnabled    : true,
+                swipeEnabled     : true,
+                menuEnabled      : false,
+                    menuFgColor: '#FFFFFF',
+                    menuBgColor: '#000000',
+                    menuHoverOpacity: 0.6,
+                    backgroundColor: '#FFFFFF',
+                backgroundImage  :
+                        null
+
+                },
+            googleFontUrl: '',
+            featureFlags: {"New Inspector Panel":false,"Password Protected Experiences":false}
+        };
+    </script>
+
+    <!--
+      DISPLAY SETTINGS
+    -->
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+    <meta name="apple-mobile-web-app-capable" content="yes">
+
+    <meta name="monitor-signature" content="monitor:player:html5"/>
+
+    <title>Delta Sweatlag International Infographic-Mobile</title>
+
+
+
+
+    <meta property="og:title" content="Delta Sweatlag International Infographic-Mobile"/>
+        <meta property="og:image" content="media/a228bf5c6c32fbedb72717a028ab0c51/page-thumbnail.jpg"/>
+    <meta property="og:description" content=""/>
+    <meta property="og:url" content=""/>
+    <meta property="og:type" content="website"/>
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Delta Sweatlag International Infographic-Mobile">
+    <meta name="twitter:description" content="">
+        <meta name="twitter:image" content="media/a228bf5c6c32fbedb72717a028ab0c51/page-thumbnail.jpg">
+
+    <script language="Javascript" id="docversion-request-script">
+        window.docVersionRequest = window.jQuery.ajax({
+            url           : "media/experience-version-5c391982aa8ba.js",
+            dataType      : 'jsonp',
+            jsonp         : false, 
+            cache         : true,  
+            jsonpCallback : "loadDocVersion_v1_account_greatist_document_versions_experience_version_5c391982aa8ba",
+            success       : window.jQuery.noop 
+        });
+    </script>
+
+    <!--
+      FONTS
+    -->
+
+    
+    <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+    
+    </script>
+    
+
+
+
+    <script type="text/javascript">
+        window.cerosPlayerLoadStart = new Date();
+    </script>
+
+    <script
+            type="text/javascript"
+            crossorigin="anonymous"
+            src="assets/player/shared/libs/require/require-min.b03b66057d7df9b2cc9aa9c4c18aa569.js">
+    </script>
+
+    <script
+            type="text/javascript"
+            async
+            crossorigin="anonymous"
+            charset="UTF-8"
+            src="assets/player/applications/html5-player/bootstrap-optimized.a14e0d1f372da1686ddffddc3b2701b6.js">
+    </script>
+
+    <link rel="stylesheet" type="text/css"
+          href="assets/player/applications/html5-player/css/html5-player.21fd94aa6ac87fa43dabff158778e0e2.css"/>
+
+    <style>
+        body {
+            background-color: #FFFFFF;
+        }
+
+        body:-ms-fullscreen::-ms-backdrop {
+            background-color: #FFFFFF;
+        }
+    </style>
+
+</head>
+<body>
+
+
+        <!-- Google Tag Manager -->
+        <noscript>
+            <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KDNLDXG"
+                    height="0" width="0" style="display:none;visibility:hidden"></iframe>
+        </noscript>
+        <script>(function (w, d, s, l, i) {
+            w[l] = w[l] || [];
+            w[l].push({
+                'gtm.start': new Date().getTime(), event: 'gtm.js'
+            });
+            var f = d.getElementsByTagName(s)[0],
+                    j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+            j.async = true;
+            j.src =
+                    '//www.googletagmanager.com/gtm.js?id=' + i + dl;
+            f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-KDNLDXG');</script>
+        <!-- End Google Tag Manager -->
+
+
+
+    <noscript>
+        
+            <div id="page-5c391982aa9a3" class="page"><div id="" class="text-component">TO</div>
+<img src="media/58e3350d32892f98e920001c333b54e7/plane-full.png" alt="" id="" class="image-component" />
+<img src="media/58e3350d32892f98e920001c333b54e7/plane-full.png" alt="" id="" class="image-component" />
+<div id="" class="text-component">CITY OR AIRPORT</div>
+<div id="" class="text-component">SHANGHAI</div>
+<img src="media/58e3350d32892f98e920001c333b54e7/plane-full.png" alt="" id="" class="image-component" />
+<img src="media/300ae6b362b3d20651ee6aa662a1b712/pin-icon.svg" alt="" id="" class="image-component" />
+<img src="media/300ae6b362b3d20651ee6aa662a1b712/pin-icon.svg" alt="" id="" class="image-component" />
+<div id="" class="text-component">Do a quick workout once you arrive, like one of these Delta and Equinox exercise videos, to boost your energy and endorphin levels. </div>
+<img src="media/300ae6b362b3d20651ee6aa662a1b712/pin-icon.svg" alt="" id="" class="image-component" />
+<div id="" class="text-component">SYDNEY</div>
+<div id="" class="text-component">A little sleepy, kind of like you skipped your morning coffee (even if you didn’t).</div>
+<div id="" class="text-component">NYC</div>
+<img src="media/58e3350d32892f98e920001c333b54e7/plane-full.png" alt="" id="" class="image-component" />
+<div id="" class="text-component">PARIS</div>
+<div id="" class="text-component">SYDNEY</div>
+<img src="media/300ae6b362b3d20651ee6aa662a1b712/pin-icon.svg" alt="" id="" class="image-component" />
+<div id="" class="text-component">PARIS</div>
+<img src="media/300ae6b362b3d20651ee6aa662a1b712/pin-icon.svg" alt="" id="" class="image-component" />
+<div id="" class="text-component">Exhausted in the afternoon, restless and wide awake at night.
+Cranky. Everything and everyone is getting on your last nerve.
+Bloated with a side of constipation and/or diarrhea (hey, no one said jet lag was glamorous).
+</div>
+<div id="" class="text-component">Tired and a little delirious, especially if you weren’t able to catchany zzz’s. 
+Like you’re hungover—headache-y, nauseated, achy, and irritated.
+</div>
+<div id="" class="text-component">15-Hour Time Difference</div>
+<img src="media/12432970e80edefc940e54c0c7fb2445/delta-internationalmap-03-full.png" alt="" id="" class="image-component" />
+<div id="" class="text-component">Drink lots of water! Herbal, noncaffeinated teas can also keep you hydrated and relaxed.
+Avoid sleep aids, with the exception of melatonin—several studies show it might help shift your circadian rhythm. 
+</div>
+<img src="media/dbab20ed3770732421cabbea2fd76447/arrow-icon.svg" alt="" id="" class="image-component" />
+<div id="" class="text-component">choose a destination to get our tips for fighting jet lag </div>
+<div id="" class="text-component">3-Hour Time Difference</div>
+<div id="" class="text-component">Ready to hit the sack, even though it’s the middle of the afternoon and the sun is shining.
+Off. Your digestion feels out of whack, and you have a slight headache.</div>
+<img src="media/cd0122919e0ebe704f5ecfd04be172aa/dltlaxg18308-sweatlagneonsign-03a-alt-02-simp-v2-full.png" alt="" id="" class="image-component" />
+<div id="" class="text-component">9-Hour Time Difference</div>
+<img src="media/79db651c6563f10a46801ba0d16c1405/delta-internationalmap-paths-10-full.png" alt="" id="" class="image-component" />
+<div id="" class="text-component">17-Hour Time Difference</div>
+<div id="" class="text-component">Set your watch to your new time zone on the plane, then eat, sleep, and drink coffee according to the time at your destination.
+Move. Walk around the plane once an hour and do some simple stretches (like the ones in this article). Once you land, try a few bodyweight exercises in your hotel room to boost your energy and help you sleep later. </div>
+<div id="" class="text-component"></div>
+<div id="" class="text-component">What to Do</div>
+<div id="" class="text-component"> Sydney to L.A.</div>
+<div id="" class="text-component">LAX</div>
+<div id="" class="text-component">NYC to L.A.</div>
+<img src="media/300ae6b362b3d20651ee6aa662a1b712/pin-icon.svg" alt="" id="" class="image-component" />
+<div id="" class="text-component">ONE WAY</div>
+<div id="" class="text-component"> Paris to L.A.</div>
+<img src="media/5a542b461133edacc1118916e5c5a538/delta-internationalmap-paths-13-full.png" alt="" id="" class="image-component" />
+<img src="media/539e48c15295e8a7388794689727e469/delta-internationalmap-paths-12-full.png" alt="" id="" class="image-component" />
+<img src="media/300ae6b362b3d20651ee6aa662a1b712/pin-icon.svg" alt="" id="" class="image-component" />
+<img src="media/300ae6b362b3d20651ee6aa662a1b712/pin-icon.svg" alt="" id="" class="image-component" />
+<div id="" class="text-component">FROM</div>
+<div id="" class="text-component"> Shanghai to L.A.</div>
+<img src="media/61ad1956a9da723b629004e9b1fa5581/delta-internationalmap-paths-11-full.png" alt="" id="" class="image-component" />
+<img src="media/9f3c0731efc6b4a6105ec4ca94a24ece/delta-internationalmap-cards-07-full.png" alt="" id="" class="image-component" />
+<img src="media/29dfd05954ec4856e3540647820cc0fe/delta-internationalmap-cards-09-full.png" alt="" id="" class="image-component" />
+<div id="" class="text-component">SHANGHAI</div>
+<img src="media/d743634ee03a4d583dabcadb0e828015/delta-internationalmap-cards-06-full.png" alt="" id="" class="image-component" />
+<div id="" class="text-component">What to Do</div>
+<div id="" class="text-component">What You’re Feeling</div>
+<div id="" class="text-component">What You’re Feeling</div>
+<div id="" class="text-component">Drink water before, during, and after your flight (aim for 8 ounces every hour). Dehydration makes jet lag even worse.
+Get outside after you land. Daylight plays a huge role in getting your internal clock back on track.
+Keep busy. You’ll adjust faster if you can stay up until your usual bedtime in your new time zone.
+</div>
+<img src="media/300ae6b362b3d20651ee6aa662a1b712/pin-icon.svg" alt="" id="" class="image-component" />
+<div id="" class="text-component">What You’re Feeling</div>
+<img src="media/dbab20ed3770732421cabbea2fd76447/arrow-icon.svg" alt="" id="" class="image-component" />
+<div id="" class="text-component">FLIGHT</div>
+<div id="" class="text-component">What to Do</div>
+<img src="media/56d1ea106d5fbec74ff7ea1aeda8d6a2/delta-internationalmap-cards-08-full.png" alt="" id="" class="image-component" />
+<div id="" class="text-component">What to Do</div>
+<div id="" class="text-component">What You’re Feeling</div>
+<img src="media/300ae6b362b3d20651ee6aa662a1b712/pin-icon.svg" alt="" id="" class="image-component" />
+<div id="" class="text-component">NYC</div>
+<img src="media/4870420614e958437fb766f34cba15a1/arrow-icon.svg" alt="" id="" class="image-component" /></div>
+    </noscript>
+
+
+<div id="main"></div>
+<div id="backgroundContainer"></div>
+
+
+
+    <!-- BEGIN CUSTOM HTML -->
+    
+    <!-- END CUSTOM HTML -->
+
+
+
+
+
+
+</body>
+</html>

@@ -1,0 +1,241 @@
+
+<!doctype html>
+<html lang="en" class="view html5-player">
+<head>
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+
+        <script type="text/javascript">
+            (function () {
+                var locationWithNoQuery = document.location.href.split('?')[0];
+                if (document.location.pathname.match(/\.html$/)) {
+                    window.cerosBaseUrl = locationWithNoQuery.replace(/[^\/]*\.html$/, '');
+                }
+                else {
+                    window.cerosBaseUrl = locationWithNoQuery.replace(/(p|page)\/[a-z0-9-]*\/?$/, '');
+                }
+                document.write("<base href='" + window.cerosBaseUrl + "' />");
+            })();
+        </script>
+
+
+        <script type="text/javascript" src="assets/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+
+    <script type="text/javascript" src="assets/webfont-1.6.3.js"></script>
+
+    <script type="text/javascript">
+        window.cerosContext = {
+        viewAssetsDomain    : '',
+            publicAssetsBaseUrl: 'assets/',
+            isEmbedded: top != window,
+            isVanityDomain: location.hostname !== 'view.ceros.com',
+            previewMode: false,
+            logging: {
+            emitDevWarnings : false,
+                modes: {
+                        'debug': false,
+                        'info': false,
+                        'warn': true,
+                        'error': true
+                }
+            },
+            usePageSlugsInNavigation: false,
+            usePreviewBanner: false,
+            useDocumentLoadingSpinner: true,
+            analyticsApplicationKey: 'player',
+            analyticsMaxDwellTime: 1800,
+            analyticsUrl: '',
+            apiVersion: 'v1',
+            revalidateWithCore: false,
+
+            ajaxCaching: true,
+        mediaDomainMap: null,
+            rollbarPlayerAccessKey: '61d7450b926c4268b5f89b75862f33a9',
+            deploymentName: 'prod',
+            appVersion: '5.77.1',
+            rollbarMaxItems: 5,
+        isExported: true,
+            isStudio: false,
+
+            accountSlug: 'greatist',
+        gracePeriodExpired  : 9223372036854775807 < Date.now() / 1000,
+            appSlug: 'bushs',
+            issueAliasSlug: 'bushs-secret-4-mobile',
+            issue: {"id":158490,"title":"Bush's Secret 4-Mobile","name":"Bush's Secret 4-Mobile","slug":"experience-5b68ac4454027","status":"published","projectId":23362,"wipExperienceVersionId":453737,"publishedExperienceVersionId":579603,"createdByMemberId":8611,"primaryIssueAliasId":220990,"creationDate":"Mon, 6 Aug 2018 16:15:00 -0400","lastModifiedDate":"Fri, 11 Jan 2019 17:35:55 -0500","firstPublishedDate":"Mon, 6 Aug 2018 16:31:34 -0400","firstPageThumbnailUrl":"\/\/media-s3-us-east-1.ceros.com\/greatist\/studio-thumbnails\/page-5b68ac4404d51.jpg","importLinkShared":false,"lastPublishedDate":"Fri, 11 Jan 2019 17:35:58 -0500","lastModifiedByMemberId":11725,"lastPublishedByMemberId":11725,"passwordProtected":false},
+            docVersion: {"id":579603,"slug":"experience-version-5c391a4eddaaa","loadLowRes":true,"seoNoIndex":false,"committedJsonUrl":"http:\/\/media-s3-us-east-1.ceros.com\/greatist\/doc-version-json\/v11\/experience-version-5c391a4eddaaa.js","seoTitleKeywords":"","seoMetaKeywords":"","seoMetaDescription":"","canonicalUrlOverride":"","editorPagesManifest":[{"uri":"\/v1\/account\/greatist\/pages\/page-5c391a4eddb92","initiallyDisabled":false,"thumbnail":"media\/f185aeb021802c2d145b4bf9baa5c3e7\/page-thumbnail.jpg"}],"seoNoscriptHtml":"","customerBodyHtml":"","experienceId":158490,"committedByMemberId":11725,"creationDate":"Fri, 11 Jan 2019 17:35:58 -0500","modifiedDate":"Fri, 11 Jan 2019 17:35:58 -0500","publishedDate":"Fri, 11 Jan 2019 17:35:58 -0500","unsupportedBrowserRedirectUrl":"","ogTitle":"","ogDescription":"","twitterTitle":"","twitterDescription":"","twitterHandle":"","lazyLoading":true,"forceLineMode":false,"layoutSettings":{"layoutPrimarySetting":null,"maxTabletWidthBreakpoint":null,"maxMobileWidthBreakpoint":null,"deviceTypeMissingVariantFallback":null},"carousel":{"enabled":false,"autoTransition":0,"autoTransitionDelay":5},"theming":{"arrowsEnabled":true,"swipeEnabled":true,"menuEnabled":false,"backgroundColor":"#FFFFFF","menuFgColor":"#FFFFFF","menuBgColor":"#000000","backgroundImage":null}},
+            fontManifest: {"Google|Just Another Hand|400|normal":{"familyName":"Just Another Hand","familyGuid":"Google|Just Another Hand","fontWeight":"400","fontStyle":"normal","unitsPerEm":"2048","ascent":"1440","variantGuid":"Google|Just Another Hand|400|normal","variantName":"Normal","cssFileURL":null,"cssFamilyName":"Just Another Hand","crossAccount":false,"api":"Google","woffFileURL":null},"Google|Roboto|400|normal":{"familyName":"Roboto","familyGuid":"Google|Roboto","fontWeight":"400","fontStyle":"normal","unitsPerEm":"2048","ascent":"1536","variantGuid":"Google|Roboto|400|normal","variantName":"Normal","cssFileURL":null,"cssFamilyName":"Roboto","crossAccount":false,"api":"Google","woffFileURL":null},"Uploaded|d5c039a5-3d30-11e8-88f3-0e55d9bc9e68":{"familyName":"Circular Pro Book","familyGuid":"Uploaded|d3cf98c5-3d30-11e8-88f3-0e55d9bc9e68","fontWeight":400,"fontStyle":"normal","unitsPerEm":"1000","ascent":"809","variantGuid":"Uploaded|d5c039a5-3d30-11e8-88f3-0e55d9bc9e68","variantName":"Normal","cssFileURL":"fonts\/7830c04b-db74-4624-90d9-4d017265aac3\/circularpro-book.css","cssFamilyName":"Circular Pro Book-Norm-0wuHi23i","crossAccount":false,"api":"Uploaded"}},
+        googleAnalyticsId   : 'UA-20914064-2',
+        showCerosBranding   : false,
+        allowEmbedding      : true,
+        isTrialAccount      : false,
+        noAnalyticsTracking       : false,
+        allowCommerceIntegration  : false,
+        allowLightboxes           : true,
+        allowEmbeddedPlayerSdk    : false,
+        allowAdaptiveLayouts: false,
+            commerceSettings: {
+            panelWidth      : null,
+            panelHeight     : null,
+                productUrl: '',
+                shoppingCartUrl: '',
+            },
+                themeObj: {
+                arrowsEnabled    : true,
+                swipeEnabled     : true,
+                menuEnabled      : false,
+                    menuFgColor: '#FFFFFF',
+                    menuBgColor: '#000000',
+                    menuHoverOpacity: 0.6,
+                    backgroundColor: '#FFFFFF',
+                backgroundImage  :
+                        null
+
+                },
+            googleFontUrl: '',
+            featureFlags: {"New Inspector Panel":false,"Password Protected Experiences":false}
+        };
+    </script>
+
+    <!--
+      DISPLAY SETTINGS
+    -->
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+    <meta name="apple-mobile-web-app-capable" content="yes">
+
+    <meta name="monitor-signature" content="monitor:player:html5"/>
+
+    <title>Bush's Secret 4-Mobile</title>
+
+
+
+
+    <meta property="og:title" content="Bush's Secret 4-Mobile"/>
+        <meta property="og:image" content="media/f185aeb021802c2d145b4bf9baa5c3e7/page-thumbnail.jpg"/>
+    <meta property="og:description" content=""/>
+    <meta property="og:url" content=""/>
+    <meta property="og:type" content="website"/>
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Bush's Secret 4-Mobile">
+    <meta name="twitter:description" content="">
+        <meta name="twitter:image" content="media/f185aeb021802c2d145b4bf9baa5c3e7/page-thumbnail.jpg">
+
+    <script language="Javascript" id="docversion-request-script">
+        window.docVersionRequest = window.jQuery.ajax({
+            url           : "media/experience-version-5c391a4eddaaa.js",
+            dataType      : 'jsonp',
+            jsonp         : false, 
+            cache         : true,  
+            jsonpCallback : "loadDocVersion_v1_account_greatist_document_versions_experience_version_5c391a4eddaaa",
+            success       : window.jQuery.noop 
+        });
+    </script>
+
+    <!--
+      FONTS
+    -->
+
+    
+    <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+    
+    </script>
+    
+
+
+
+    <script type="text/javascript">
+        window.cerosPlayerLoadStart = new Date();
+    </script>
+
+    <script
+            type="text/javascript"
+            crossorigin="anonymous"
+            src="assets/player/shared/libs/require/require-min.b03b66057d7df9b2cc9aa9c4c18aa569.js">
+    </script>
+
+    <script
+            type="text/javascript"
+            async
+            crossorigin="anonymous"
+            charset="UTF-8"
+            src="assets/player/applications/html5-player/bootstrap-optimized.a14e0d1f372da1686ddffddc3b2701b6.js">
+    </script>
+
+    <link rel="stylesheet" type="text/css"
+          href="assets/player/applications/html5-player/css/html5-player.21fd94aa6ac87fa43dabff158778e0e2.css"/>
+
+    <style>
+        body {
+            background-color: #FFFFFF;
+        }
+
+        body:-ms-fullscreen::-ms-backdrop {
+            background-color: #FFFFFF;
+        }
+    </style>
+
+</head>
+<body>
+
+
+        <!-- Google Tag Manager -->
+        <noscript>
+            <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KDNLDXG"
+                    height="0" width="0" style="display:none;visibility:hidden"></iframe>
+        </noscript>
+        <script>(function (w, d, s, l, i) {
+            w[l] = w[l] || [];
+            w[l].push({
+                'gtm.start': new Date().getTime(), event: 'gtm.js'
+            });
+            var f = d.getElementsByTagName(s)[0],
+                    j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+            j.async = true;
+            j.src =
+                    '//www.googletagmanager.com/gtm.js?id=' + i + dl;
+            f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-KDNLDXG');</script>
+        <!-- End Google Tag Manager -->
+
+
+
+    <noscript>
+        
+            <div id="page-5c391a4eddb92" class="page"><img src="media/5f2a1f5b7c3acb5d7d4b1d95f5826c8d/beans-0003-layer-6-full.png" alt="" id="" class="image-component" />
+<div id="" class="text-component">click to reveal
+the secret!</div>
+<img src="media/3eadddfa5e14c3f076cb76fdccc5658e/pixel-1-full.png" alt="" id="" class="image-component" />
+<div id="" class="text-component">more BUSH'S® recipe secrets ></div>
+<img src="media/16386843b11f23d2ec9cfd4444f6c96d/beans-0000-layer-50-full.png" alt="" id="" class="image-component" />
+<img src="media/3f44b02f40e8b9a1c72956ea8bd9b3b0/bush-dukesecret-circlebackground-full.png" alt="" id="" class="image-component" />
+<img src="media/3d677c59aeb78dfb3c8ced16c8bc38a5/duke-spills-the-beans-full.png" alt="" id="" class="image-component" />
+<div id="" class="text-component">BUSH’S® Chili Beans take the guesswork out of seasoning, so it’s 
+easy to nail the perfect bowl.</div>
+<img src="media/e69239adcf81aaa4f4c9ccbcb0290eab/bush-dukesecret-arrow-full.png" alt="" id="" class="image-component" />
+<img src="media/a80e65e2b03cece3107f7e005dea6641/beans-0004-layer-5-full.png" alt="" id="" class="image-component" />
+<img src="media/e364587785a22932a95e1eded021d6c6/bush-dukesecret-circleduke-full.png" alt="" id="" class="image-component" />
+<img src="media/6cb68b7efe44ca6b2924b856880385f2/beans-0001-layer-32-full.png" alt="" id="" class="image-component" /></div>
+    </noscript>
+
+
+<div id="main"></div>
+<div id="backgroundContainer"></div>
+
+
+
+    <!-- BEGIN CUSTOM HTML -->
+    
+    <!-- END CUSTOM HTML -->
+
+
+
+
+
+
+</body>
+</html>
