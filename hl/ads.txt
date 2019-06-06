@@ -1,6 +1,6 @@
 adtech.com, 9502, DIRECT, c8eb2322b857bba6
 aol.com, 28718, DIRECT, c8eb2322b857bba6
-aolcloud.com, 9502, DIRECT, c8eb2322b857bba6
+aolcloud.net.net, 9502, DIRECT, c8eb2322b857bba6
 appnexus.com, 3844, DIRECT, c8eb2322b857bba6
 appnexus.com, 1908, RESELLER, c8eb2322b857bba6
 appnexus.com, 7944, RESELLER, c8eb2322b857bba6
@@ -71,7 +71,7 @@ tremorhub.com, iq97d, RESELLER, 1a4e959a1b50034a
 tremorhub.com, 3e8fs, RESELLER, 1a4e959a1b50034a
 districtm.io, 100600, RESELLER 
 appnexus.com, 1908, RESELLER, f5ab79cb980f11d1
-EMXDGT.com, 1044, RESELLER 1e1d41537f7cad7f 
+EMXDGT.com, 1044, RESELLER, 1e1d41537f7cad7f 
 Appnexus.com, 1356, RESELLER, f5ab79cb980f11d1
 sharethrough.com, 0d60edd5, RESELLER
 sonobi.com, 83729e979b, RESELLER
