@@ -169,3 +169,4 @@ advertising.com, 28230, RESELLER
 rubiconproject.com, 20760, DIRECT, 0bfd66d529a55807
 rubiconproject.com, 15268, RESELLER
 rubiconproject.com, 20598, RESELLER, 0bfd66d529a55807
+gumgum.com, 11478, DIRECT, ffdef49475d318a9
