@@ -59,6 +59,7 @@ openx.com, 78677, DIRECT, c8eb2322b857bba6
 pubmatic.com, 156078, RESELLER, c8eb2322b857bba6
 pubmatic.com, 157288, DIRECT, 5d62403b186f2ace
 pubmatic.com, 157512, DIRECT, 5d62403b186f2ace
+rhythmone.com, 2288795184, DIRECT, a670c89d4a324e47
 rtb.selectmedia.asia, 271, DIRECT # banner, video
 rubiconproject.com, 11314, DIRECT, c8eb2322b857bba6
 rubiconproject.com, 15268, RESELLER
