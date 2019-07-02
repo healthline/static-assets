@@ -55,12 +55,14 @@ openx.com, 537143455, DIRECT, 6a698e2ec38604c6
 openx.com, 537151308, DIRECT, c8eb2322b857bba6
 openx.com, 539007798, DIRECT, c8eb2322b857bba6
 openx.com, 540717754, DIRECT, 6a698e2ec38604c6
+openx.com, 540786724, RESELLER, 6a698e2ec38604c6
 openx.com, 78677, DIRECT, c8eb2322b857bba6
 pubmatic.com, 156078, RESELLER, c8eb2322b857bba6
 pubmatic.com, 157288, DIRECT, 5d62403b186f2ace
 pubmatic.com, 157512, DIRECT, 5d62403b186f2ace
 rhythmone.com, 2288795184, DIRECT, a670c89d4a324e47
 rtb.selectmedia.asia, 271, DIRECT # banner, video
+rtb.selectmedia.asia, 58fcbed1073ef420086c9d08, DIRECT # banner,video
 rubiconproject.com, 11314, DIRECT, c8eb2322b857bba6
 rubiconproject.com, 15268, RESELLER
 rubiconproject.com, 20598, RESELLER, 0bfd66d529a55807
