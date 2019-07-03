@@ -26,15 +26,10 @@ freewheel.tv, 144617, RESELLER
 freewheel.tv, 144633, RESELLER
 freewheel.tv, 146905,RESELLER
 freewheel.tv, 146921, RESELLER
-freewheel.tv, 147281, RESELLER 
-freewheel.tv, 147289, RESELLER
 freewheel.tv, 202433,RESELLER
 freewheel.tv, 202609, RESELLER
 freewheel.tv, 202681, RESELLER 
 freewheel.tv, 202881, RESELLER
-freewheel.tv, 203225, RESELLER 
-freewheel.tv, 846129, RESELLER
-freewheel.tv, 846145, RESELLER
 freewheel.tv, 890577, RESELLER
 freewheel.tv, 893377, RESELLER
 google.com, pub-4771166113579725, DIRECT, f08c47fec0942fa0
@@ -77,9 +72,7 @@ teads.tv, 11545, DIRECT, 15a9c44f6d26cbe1
 teads.tv, 12105, DIRECT, 15a9c44f6d26cbe1
 teads.tv, 12108, DIRECT, 15a9c44f6d26cbe1
 teads.tv, 12118, DIRECT, 15a9c44f6d26cbe1
-tremorhub.com, 3e8fs, RESELLER, 1a4e959a1b50034a
 tremorhub.com, cguke-k8ex0, RESELLER, 1a4e959a1b50034a
-tremorhub.com, iq97d, RESELLER, 1a4e959a1b50034a
 triplelift.com, 3152, DIRECT, c8eb2322b857bba6
 yieldmo.com, 1164496325591808848, DIRECT, c8eb2322b857bba6
 yieldmo.com, Healthline.com, DIRECT, c8eb2322b857bba6
