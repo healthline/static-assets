@@ -1,3 +1,4 @@
+admanmedia.com, 68, DIRECT
 adtech.com, 7060, RESELLER
 adtech.com, 9502, DIRECT, c8eb2322b857bba6
 advertising.com, 28230, RESELLER
@@ -12,6 +13,7 @@ appnexus.com, 1908, RESELLER, f5ab79cb980f11d1
 appnexus.com, 3844, DIRECT, c8eb2322b857bba6
 appnexus.com, 6979, RESELLER, f5ab79cb980f11d1
 appnexus.com, 7944, RESELLER, c8eb2322b857bba6
+appnexus.com, 8804, RESELLER, f5ab79cb980f11d1
 beachfront.com, 2779, DIRECT, e2541279e8e2ca4d
 c.amazon-adsystem.com, 3083, DIRECT, c8eb2322b857bba6
 conversantmedia.com, 41024, RESELLER
