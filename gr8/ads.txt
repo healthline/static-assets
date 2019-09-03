@@ -46,6 +46,7 @@ improvedigital.com, 1091, RESELLER
 indexexchange.com, 175407, RESELLER, c8eb2322b857bba6
 indexexchange.com, 180447, DIRECT, 50b1c356f2c5c8fc
 indexexchange.com, 184230, RESELLER, 50b1c356f2c5c8fc
+indexexchange.com, 190039, DIRECT
 media.net, 8CUPK277N, Direct, c8eb2322b857bba6
 openx.com, 537100188, RESELLER, 6a698e2ec38604c6 
 openx.com, 537143344, RESELLER, c8eb2322b857bba6
