@@ -1,6 +1,6 @@
 adtech.com, 9502, DIRECT, c8eb2322b857bba6
 advertising.com, 28230, RESELLER
-Advertising.com, 7060, RESELLER
+advertising.com, 7060, RESELLER
 aol.com, 28718, DIRECT, c8eb2322b857bba6
 aolcloud.net, 9502, DIRECT, c8eb2322b857bba6
 appnexus.com, 1314, RESELLER
