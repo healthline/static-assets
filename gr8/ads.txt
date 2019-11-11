@@ -79,5 +79,6 @@ teads.tv, 12108, DIRECT, 15a9c44f6d26cbe1
 teads.tv, 12118, DIRECT, 15a9c44f6d26cbe1
 tremorhub.com, cguke-k8ex0, RESELLER, 1a4e959a1b50034a
 triplelift.com, 3152, DIRECT, c8eb2322b857bba6
+triplelift.com, 6724, DIRECT, c8eb2322b857bba6 
 yieldmo.com, 1164496325591808848, DIRECT, c8eb2322b857bba6
 yieldmo.com, Healthline.com, DIRECT, c8eb2322b857bba6
