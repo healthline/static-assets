@@ -23,6 +23,7 @@ districtm.io, 101673, RESELLER
 EMXDGT.com, 1044, RESELLER, 1e1d41537f7cad7f 
 experian.com, EXP_724809_A, RESELLER, c8eb2322b857bba6
 facebook.com, 738762996262850, DIRECT, c8eb2322b857bba6
+fair-trademedia.com, 748, DIRECT 
 freewheel.tv, 1024849, RESELLER
 freewheel.tv, 1025009, RESELLER
 freewheel.tv, 144617, RESELLER
