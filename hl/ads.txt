@@ -72,7 +72,6 @@ triplelift.com, 3152, DIRECT, c8eb2322b857bba6
 yieldmo.com, 1164496325591808848, DIRECT, c8eb2322b857bba6
 yieldmo.com, Healthline.com, DIRECT, c8eb2322b857bba6
 adtech.com, 7060, RESELLER 
-contextweb.com, 560456, RESELLER, 89ff185a4c4e857c 
 pubmatic.com, 157288, RESELLER, 5d62403b186f2ace 
 tremorhub.com, cguke-k8ex0, RESELLER, 1a4e959a1b50034a 
 pubmatic.com, 157512, RESELLER, 5d62403b186f2ace 
