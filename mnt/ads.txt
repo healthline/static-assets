@@ -43,3 +43,4 @@ appnexus.com, 1314, RESELLER
 triplelift.com, 6723, DIRECT, 6c33edb13117fd86
 EMXDGT.com, 1246, RESELLER, 1e1d41537f7cad7f
 indexexchange.com, 190599, DIRECT
+yieldmo.com, 1164496325591808848, DIRECT
