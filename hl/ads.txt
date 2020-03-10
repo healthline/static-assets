@@ -34,6 +34,7 @@ adtech.com, 7060, RESELLER
 advertising.com, 28230, RESELLER
 advertising.com, 7060, RESELLER
 appnexus.com, 8804, RESELLER, f5ab79cb980f11d1
+appnexus.com, 11659, RESELLER, f5ab79cb980f11d1
 districtm.io, 101673, RESELLER
 freewheel.tv, 1024849, RESELLER
 freewheel.tv, 1025009, RESELLER
