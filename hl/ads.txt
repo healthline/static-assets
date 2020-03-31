@@ -51,6 +51,7 @@ selectmedia.asia, 5c62d8ee073ef46ac74785ca, DIRECT
 spotx.tv, 82810, RESELLER, 7842df1d2fe2db34
 spotxchange.com, 82810, RESELLER, 7842df1d2fe2db34
 tremorhub.com, cguke-k8ex0, RESELLER, 1a4e959a1b50034a
+rhythmone.com, 2288795184, RESELLER, a670c89d4a324e47
 
 rubiconproject.com,16762,DIRECT,0bfd66d529a55807 #granitemedia
 rubiconproject.com,18106,DIRECT,0bfd66d529a55807 #granitemedia
