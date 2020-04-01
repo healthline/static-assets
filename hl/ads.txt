@@ -34,7 +34,7 @@ adtech.com, 7060, RESELLER
 advertising.com, 28230, RESELLER
 advertising.com, 7060, RESELLER
 appnexus.com, 8804, RESELLER, f5ab79cb980f11d1
-appnexus.com, 11659, RESELLER, f5ab79cb980f11d1
+appnexus.com, 11659, RESELLER, f5ab79cb980f11d2 
 districtm.io, 101673, RESELLER
 freewheel.tv, 1024849, RESELLER
 freewheel.tv, 1025009, RESELLER
@@ -52,6 +52,8 @@ spotx.tv, 82810, RESELLER, 7842df1d2fe2db34
 spotxchange.com, 82810, RESELLER, 7842df1d2fe2db34
 tremorhub.com, cguke-k8ex0, RESELLER, 1a4e959a1b50034a
 rhythmone.com, 2288795184, RESELLER, a670c89d4a324e47
+openx.com, 540999880, RESELLER, 6a698e2ec38604c6
+indexexchange.com, 191812, RESELLER
 
 rubiconproject.com,16762,DIRECT,0bfd66d529a55807 #granitemedia
 rubiconproject.com,18106,DIRECT,0bfd66d529a55807 #granitemedia
