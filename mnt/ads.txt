@@ -2,6 +2,7 @@ adtech.com, 9502, DIRECT, c8eb2322b857bba6
 advertising.com, 28319, DIRECT, e1a5b5b6e3255540
 appnexus.com, 1908, RESELLER, f5ab79cb980f11d1
 appnexus.com, 3844, DIRECT, c8eb2322b857bba6
+aps.amazon.com, 3083, DIRECT
 c.amazon-adsystem.com, 3083, DIRECT, c8eb2322b857bba6
 districtm.io, 100562, DIRECT, 3fd707be9c4527c3
 facebook.com, 738762996262850, DIRECT, c8eb2322b857bba6
