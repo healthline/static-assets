@@ -57,6 +57,8 @@ openx.com, 540999880, RESELLER, 6a698e2ec38604c6
 indexexchange.com, 191812, RESELLER
 telaria.com, cguke-k8ex0, RESELLER, 1a4e959a1b50034a
 google.com, pub-2930805104418204, RESELLER, f08c47fec0942fa0 
+pubmatic.com, 157288, RESELLER, 5d62403b186f2ace  
+pubmatic.com, 157512, RESELLER, 5d62403b186f2ace  
 
 rubiconproject.com,16762,DIRECT,0bfd66d529a55807 #granitemedia
 rubiconproject.com,18106,DIRECT,0bfd66d529a55807 #granitemedia
