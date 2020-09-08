@@ -1,0 +1,66 @@
+adtech.com, 9502, DIRECT, c8eb2322b857bba6
+advertising.com, 28319, DIRECT, e1a5b5b6e3255540
+appnexus.com, 1908, RESELLER, f5ab79cb980f11d1
+appnexus.com, 3844, DIRECT, c8eb2322b857bba6
+aps.amazon.com, 3083, DIRECT
+c.amazon-adsystem.com, 3083, DIRECT, c8eb2322b857bba6
+districtm.io, 100562, DIRECT, 3fd707be9c4527c3
+google.com, pub-4771166113579725, DIRECT, f08c47fec0942fa0
+google.com, pub-6622376043919941, DIRECT, f08c47fec0942fa0
+google.com, pub-9428411717556527, DIRECT, f08c47fec0942fa0
+google.com, pub-9816692645014906, DIRECT, f08c47fec0942fa0
+gumgum.com,11478,DIRECT,ffdef49475d318a9
+indexexchange.com, 180447, DIRECT, 50b1c356f2c5c8fc
+indexexchange.com, 190599, DIRECT, 50b1c356f2c5c8fc
+indexexchange.com, 192606, DIRECT, 50b1c356f2c5c8fc
+media.net, 8CUPK277N, DIRECT, c8eb2322b857bba6
+openx.com, 537143455, DIRECT, 6a698e2ec38604c6
+openx.com, 537151308, DIRECT, c8eb2322b857bba6
+openx.com, 539007798, DIRECT, c8eb2322b857bba6
+openx.com, 540717754, DIRECT, 6a698e2ec38604c6
+openx.com, 78677, DIRECT, c8eb2322b857bba6
+pubmatic.com, 159510, DIRECT, 5d62403b186f2ace
+rubiconproject.com, 11314, DIRECT, c8eb2322b857bba6
+rubiconproject.com, 20760, DIRECT, 0bfd66d529a55
+rubiconproject.com, 208661, RESELLER, 0bfd66d529a55807
+teads.tv, 11543, DIRECT, 15a9c44f6d26cbe1
+teads.tv, 11545, DIRECT, 15a9c44f6d26cbe1
+teads.tv, 12105, DIRECT, 15a9c44f6d26cbe1
+teads.tv, 12108, DIRECT, 15a9c44f6d26cbe1
+teads.tv, 12118, DIRECT, 15a9c44f6d26cbe1
+triplelift.com, 3152, DIRECT, c8eb2322b857bba6
+yieldmo.com, 1164496325591808848, DIRECT, c8eb2322b857bba6
+
+admanmedia.com, 68, RESELLER
+adtech.com, 7060, RESELLER
+advertising.com, 28230, RESELLER
+advertising.com, 7060, RESELLER
+appnexus.com, 8804, RESELLER, f5ab79cb980f11d1
+appnexus.com, 11659, RESELLER, f5ab79cb980f11d2 
+districtm.io, 101673, RESELLER
+freewheel.tv, 1024849, RESELLER
+freewheel.tv, 1025009, RESELLER
+freewheel.tv, 144617, RESELLER
+freewheel.tv, 144633, RESELLER
+freewheel.tv, 890577, RESELLER
+freewheel.tv, 893377, RESELLER
+google.com, pub-4903453974745530, RESELLER, f08c47fec0942fa0
+gumgum.com, 13679, RESELLER, ffdef49475d318a9
+improvedigital.com, 1091, RESELLER
+openx.com, 540786724, RESELLER, 6a698e2ec38604c6
+rubiconproject.com, 20598, RESELLER, 0bfd66d529a55807
+selectmedia.asia, 5c62d8ee073ef46ac74785ca, DIRECT
+spotx.tv, 82810, RESELLER, 7842df1d2fe2db34
+spotxchange.com, 82810, RESELLER, 7842df1d2fe2db34
+tremorhub.com, cguke-k8ex0, RESELLER, 1a4e959a1b50034a
+rhythmone.com, 2288795184, RESELLER, a670c89d4a324e47
+openx.com, 540999880, RESELLER, 6a698e2ec38604c6
+indexexchange.com, 191812, RESELLER
+telaria.com, cguke-k8ex0, RESELLER, 1a4e959a1b50034a
+google.com, pub-2930805104418204, RESELLER, f08c47fec0942fa0 
+pubmatic.com, 157288, RESELLER, 5d62403b186f2ace  
+pubmatic.com, 157512, RESELLER, 5d62403b186f2ace  
+
+rubiconproject.com,16762,DIRECT,0bfd66d529a55807 #granitemedia
+rubiconproject.com,18106,DIRECT,0bfd66d529a55807 #granitemedia
+subdomain=edition.healthline.com #granitemedia
