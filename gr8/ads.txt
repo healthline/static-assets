@@ -7,7 +7,6 @@ appnexus.com, 3844, DIRECT, c8eb2322b857bba6
 aps.amazon.com, 3083, DIRECT
 c.amazon-adsystem.com, 3083, DIRECT, c8eb2322b857bba6
 districtm.io, 100562, DIRECT, 3fd707be9c4527c3
-facebook.com, 738762996262850, DIRECT, c8eb2322b857bba6
 google.com, pub-4771166113579725, DIRECT, f08c47fec0942fa0
 google.com, pub-6622376043919941, DIRECT, f08c47fec0942fa0
 google.com, pub-9428411717556527, DIRECT, f08c47fec0942fa0
@@ -38,15 +37,4 @@ rubiconproject.com,16762,DIRECT,0bfd66d529a55807 #granitemedia
 rubiconproject.com,18106,DIRECT,0bfd66d529a55807 #granitemedia
 subdomain=edition.greatist.com #granitemedia
 
-33across.com, 0013300001qkdlwAAA, RESELLER
-adtech.com, 11208, RESELLER
-appnexus.com, 3153, RESELLER, f5ab79cb980f11d1
-brightcom.com, 20079, DIRECT
-google.com, pub-4207323757133151, RESELLER, f08c47fec0942fa0
-google.com, pub-5231479214411897, RESELLER, f08c47fec0942fa0
-google.com, pub-9557089510405422, RESELLER, f08c47fec0942fa0
-improvedigital.com, 1362, RESELLER
-indexexchange.com, 189744, RESELLER
-openx.com, 537153209, RESELLER, 6a698e2ec38604c6
-rubiconproject.com, 20416, RESELLER, 0bfd66d529a55807
 
