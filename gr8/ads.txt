@@ -1,5 +1,3 @@
-outbrain.com, 00dcdbfaae5dcd461b6661cb4cc4c91365, DIRECT
-liveintent.com, 33925, DIRECT
 appnexus.com, 1908, RESELLER, f5ab79cb980f11d1
 appnexus.com, 3844, DIRECT, c8eb2322b857bba6
 aps.amazon.com, 3083, DIRECT
