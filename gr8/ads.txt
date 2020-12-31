@@ -1,7 +1,5 @@
 outbrain.com, 00dcdbfaae5dcd461b6661cb4cc4c91365, DIRECT
 liveintent.com, 33925, DIRECT
-adtech.com, 9502, DIRECT, c8eb2322b857bba6
-advertising.com, 28319, DIRECT, e1a5b5b6e3255540
 appnexus.com, 1908, RESELLER, f5ab79cb980f11d1
 appnexus.com, 3844, DIRECT, c8eb2322b857bba6
 aps.amazon.com, 3083, DIRECT
@@ -10,7 +8,6 @@ districtm.io, 100562, DIRECT, 3fd707be9c4527c3
 google.com, pub-4771166113579725, DIRECT, f08c47fec0942fa0
 google.com, pub-6622376043919941, DIRECT, f08c47fec0942fa0
 google.com, pub-9428411717556527, DIRECT, f08c47fec0942fa0
-gumgum.com,11478,DIRECT,ffdef49475d318a9
 indexexchange.com, 180447, DIRECT, 50b1c356f2c5c8fc
 indexexchange.com, 190599, DIRECT, 50b1c356f2c5c8fc
 indexexchange.com, 192606, DIRECT, 50b1c356f2c5c8fc
