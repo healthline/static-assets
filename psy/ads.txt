@@ -8,6 +8,7 @@ google.com, pub-9816692645014906, DIRECT, f08c47fec0942fa0
 indexexchange.com, 180447, DIRECT, 50b1c356f2c5c8fc
 indexexchange.com, 190599, DIRECT, 50b1c356f2c5c8fc
 indexexchange.com, 192606, DIRECT, 50b1c356f2c5c8fc
+liveintent.com, 64043, DIRECT
 media.net, 8CUPK277N, DIRECT, c8eb2322b857bba6
 openx.com, 537143455, DIRECT, 6a698e2ec38604c6
 openx.com, 537151308, DIRECT, c8eb2322b857bba6
