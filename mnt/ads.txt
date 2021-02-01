@@ -30,6 +30,8 @@ yieldmo.com, 1164496325591808848, DIRECT, c8eb2322b857bba6
 adtech.com, 7060, RESELLER
 advertising.com, 28230, RESELLER
 advertising.com, 7060, RESELLER
+appnexus.com, 9684, RESELLER, f5ab79cb980f11d1
+districtm.io, 101673, RESELLER, 3fd707be9c4527c3 
 google.com, pub-2930805104418204, RESELLER, f08c47fec0942fa0 
 google.com, pub-4903453974745530, RESELLER, f08c47fec0942fa0
 indexexchange.com, 191812, RESELLER
