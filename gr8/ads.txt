@@ -10,9 +10,9 @@ indexexchange.com, 192606, DIRECT, 50b1c356f2c5c8fc
 liveintent.com, 59295, DIRECT
 media.net, 8CUPK277N, Direct, c8eb2322b857bba6
 openx.com, 537151308, DIRECT, 6a698e2ec38604c6
-openx.com, 540717754, DIRECT, 6a698e2ec38604c6
 openx.com, 539007798, DIRECT, 6a698e2ec38604c6
 openx.com, 539178623, DIRECT, 6a698e2ec38604c6
+openx.com, 540717754, DIRECT, 6a698e2ec38604c6
 openx.com, 540740819, DIRECT, 6a698e2ec38604c6
 pubmatic.com, 159510, DIRECT, 5d62403b186f2ace
 rubiconproject.com, 11314, DIRECT, c8eb2322b857bba6
