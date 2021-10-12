@@ -29,7 +29,6 @@ triplelift.com, 3152, DIRECT, 6c33edb13117fd86
 yahoo.com, 57091, DIRECT, e1a5b5b6e3255540
 yahoo.com, 58901, DIRECT, e1a5b5b6e3255540
 yahoo.com, 59081, DIRECT, e1a5b5b6e3255540
-yieldmo.com, 1164496325591808848, DIRECT, c8eb2322b857bba6
 
 rubiconproject.com,16762,DIRECT,0bfd66d529a55807 #granitemedia
 rubiconproject.com,18106,DIRECT,0bfd66d529a55807 #granitemedia
