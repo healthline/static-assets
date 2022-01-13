@@ -13,3 +13,6 @@ Read more about ads.txt here: https://support.google.com/adsense/answer/7532444?
 This Repo is a production repo.  DO NOT DELETE!
 Contact Chris Acosta (cacosta@healthline.com) if you have questions.
 
+## Example link 
+HL ads.txt used in production site
+https://www.healthline.com/ads.txt
