@@ -27,6 +27,7 @@ teads.tv, 11545, DIRECT, 15a9c44f6d26cbe1
 teads.tv, 12105, DIRECT, 15a9c44f6d26cbe1
 teads.tv, 12108, DIRECT, 15a9c44f6d26cbe1
 teads.tv, 12118, DIRECT, 15a9c44f6d26cbe1
+triplelift.com, 3152-EB, DIRECT, 6c33edb13117fd86
 triplelift.com, 6723, DIRECT, 6c33edb13117fd86
 yahoo.com, 57091, DIRECT, e1a5b5b6e3255540
 yahoo.com, 58901, DIRECT, e1a5b5b6e3255540
