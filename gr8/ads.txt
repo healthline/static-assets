@@ -31,10 +31,5 @@ triplelift.com, 6724, DIRECT, 6c33edb13117fd86
 triplelift.com, 6724-EB, DIRECT, 6c33edb13117fd86
 yahoo.com, 59081, DIRECT, e1a5b5b6e3255540
 
-rubiconproject.com,16762,DIRECT,0bfd66d529a55807 #granitemedia
-rubiconproject.com,18106,DIRECT,0bfd66d529a55807 #granitemedia
-subdomain=edition.greatist.com #granitemedia
-aps.amazon.com,7d0d4b63-7d46-4ac8-a9a4-76560c7c01ed,DIRECT #granite
-google.com, pub-1832713758055797, RESELLER, f08c47fec0942fa0 #granite
 
 
