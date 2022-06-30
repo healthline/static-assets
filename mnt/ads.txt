@@ -1,9 +1,6 @@
-33across.com, 0013300001b1YMsAAM, DIRECT, bbea06d9c4d2853c
-appnexus.com, 10239, RESELLER, f5ab79cb980f11d1 
 appnexus.com, 3844, DIRECT, c8eb2322b857bba6
 aps.amazon.com, 3083, DIRECT
 c.amazon-adsystem.com, 3083, DIRECT, c8eb2322b857bba6
-deepintent.com, 1238, DIRECT
 google.com, pub-4771166113579725, DIRECT, f08c47fec0942fa0
 google.com, pub-6622376043919941, DIRECT, f08c47fec0942fa0
 google.com, pub-9428411717556527, DIRECT, f08c47fec0942fa0
@@ -21,7 +18,6 @@ openx.com, 544096208, DIRECT, 6a698e2ec38604c6
 pubmatic.com, 159510, DIRECT, 5d62403b186f2ace
 pubmatic.com, 162008, DIRECT, 5d62403b186f2ace
 rubiconproject.com, 11314, DIRECT, c8eb2322b857bba6
-rubiconproject.com, 16414, RESELLER, 0bfd66d529a55807 
 rubiconproject.com, 20760, DIRECT, 0bfd66d529a55
 teads.tv, 11543, DIRECT, 15a9c44f6d26cbe1
 teads.tv, 11545, DIRECT, 15a9c44f6d26cbe1
