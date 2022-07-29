@@ -1,6 +1,5 @@
 ownerdomain=healthlinemedia.com
 
-appnexus.com, 3844, DIRECT, c8eb2322b857bba6
 aps.amazon.com, 3083, DIRECT
 c.amazon-adsystem.com, 3083, DIRECT, c8eb2322b857bba6
 google.com, pub-4771166113579725, DIRECT, f08c47fec0942fa0
