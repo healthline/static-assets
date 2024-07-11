@@ -16,3 +16,7 @@ Contact Chris Acosta (cacosta@healthline.com) if you have questions.
 ## Example link 
 HL ads.txt used in production site
 https://www.healthline.com/ads.txt
+
+## More details how this is used internally:
+
+https://rvohealth.atlassian.net/wiki/spaces/HLENG/pages/11340355/Ads.txt#How-ads.txt-is-served-by-healthline.com%2Fads.txt%3A
