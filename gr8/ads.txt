@@ -10,7 +10,7 @@ healthlinemedia.com, 1, DIRECT
 indexexchange.com, 180447, DIRECT, 50b1c356f2c5c8fc
 indexexchange.com, 190599, DIRECT, 50b1c356f2c5c8fc
 indexexchange.com, 192606, DIRECT, 50b1c356f2c5c8fc
-lijit.com, 284725, DIRECT, fafdf38b16bf6b2b
+lijit.com, 284725, DIRECT, fafdf38b16bf6b2b #SOVRN
 liveintent.com, 59295, DIRECT
 media.net, 8CUPK277N, DIRECT
 media.net, 8CUTZC754, DIRECT
