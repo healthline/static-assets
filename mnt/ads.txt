@@ -6,6 +6,7 @@ c.amazon-adsystem.com, 3083, DIRECT, c8eb2322b857bba6
 google.com, pub-4771166113579725, DIRECT, f08c47fec0942fa0
 google.com, pub-6622376043919941, DIRECT, f08c47fec0942fa0
 google.com, pub-9428411717556527, DIRECT, f08c47fec0942fa0
+google.com, pub-9816692645014906, DIRECT, f08c47fec0942fa0
 healthlinemedia.com, 1, DIRECT
 indexexchange.com, 180447, DIRECT, 50b1c356f2c5c8fc
 indexexchange.com, 190599, DIRECT, 50b1c356f2c5c8fc
@@ -36,9 +37,25 @@ yahoo.com, 100006, DIRECT, e1a5b5b6e3255540
 #RESELLER#
 appnexus.com, 1019, RESELLER, f5ab79cb980f11d1
 appnexus.com, 4052, RESELLER
+conversantmedia.com, 100658, RESELLER, 03113cd04947736d
+conversantmedia.com, 100659, RESELLER, 03113cd04947736d
+conversantmedia.com, 100660, RESELLER, 03113cd04947736d
+conversantmedia.com, 100661, RESELLER, 03113cd04947736d
+conversantmedia.com, 100662, RESELLER, 03113cd04947736d
+conversantmedia.com, 100663, RESELLER, 03113cd04947736d
+conversantmedia.com, 100670, RESELLER, 03113cd04947736d
+conversantmedia.com, 100671, RESELLER, 03113cd04947736d
+conversantmedia.com, 100672, RESELLER, 03113cd04947736d
+conversantmedia.com, 100677, RESELLER, 03113cd04947736d
+conversantmedia.com, 100688, RESELLER, 03113cd04947736d
+conversantmedia.com, 100691, RESELLER, 03113cd04947736d
+conversantmedia.com, 100713, RESELLER, 03113cd04947736d
 lijit.com, 411121, RESELLER, fafdf38b16bf6b2b #SOVRN
+openx.com, 537100188, RESELLER, 6a698e2ec38604c6
 openx.com, 540031703, RESELLER, 6a698e2ec38604c6
 rubiconproject.com, 17960, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 19396, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 23644, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 23844, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 26144, RESELLER, 0bfd66d529a55807
 yahoo.com, 55771, RESELLER, e1a5b5b6e3255540
-
