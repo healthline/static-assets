@@ -1,42 +1,84 @@
 ownerdomain=healthlinemedia.com
 
+adtech.com, 9502, DIRECT, c8eb2322b857bba6
+aol.com, 28718, DIRECT, c8eb2322b857bba6
+aolcloud.com, 9502, DIRECT, c8eb2322b857bba6
 appnexus.com, 11550, DIRECT, f5ab79cb980f11d1
+appnexus.com, 3844, DIRECT, c8eb2322b857bba6
+appnexus.com, 3844, DIRECT,f5ab79cb980f11d1
 aps.amazon.com, 3083, DIRECT
+beachfront.com, 2779, DIRECT, e2541279e8e2ca4d
 c.amazon-adsystem.com, 3083, DIRECT, c8eb2322b857bba6
+districtm.io, 100562, DIRECT, c8eb2322b857bba6
+districtm.io, 101673, DIRECT
+facebook.com, 738762996262850, DIRECT, c8eb2322b857bba6
 google.com, pub-4771166113579725, DIRECT, f08c47fec0942fa0
+google.com, pub-0521848186422428, DIRECT, f08c47fec0942fa0
 google.com, pub-6622376043919941, DIRECT, f08c47fec0942fa0
 google.com, pub-9428411717556527, DIRECT, f08c47fec0942fa0
 google.com, pub-9816692645014906, DIRECT, f08c47fec0942fa0
+gumgum.com, 13679, DIRECT, ffdef49475d318a9
 healthlinemedia.com, 1, DIRECT
+improvedigital.com, 1091, DIRECT
 indexexchange.com, 180447, DIRECT, 50b1c356f2c5c8fc
 indexexchange.com, 190599, DIRECT, 50b1c356f2c5c8fc
 indexexchange.com, 192606, DIRECT, 50b1c356f2c5c8fc
+indexexchange.com, 196803, DIRECT, 50b1c356f2c5c8fc
 lijit.com, 284725, DIRECT, fafdf38b16bf6b2b #SOVRN
+lijit.com, 284725-eb, DIRECT, fafdf38b16bf6b2b #SOVRN
 liveintent.com, 59296, DIRECT
-media.net, 8CUPK277N, DIRECT
-media.net, 8CUTZC754, DIRECT
 media.net, 8CU7L2TG3, DIRECT
+media.net, 8CUPK277N, DIRECT
+media.net, 8CUPK277N, Direct, c8eb2322b857bba6
+media.net, 8CUTZC754, DIRECT
+openx.com, 537143455, DIRECT, 6a698e2ec38604c6
 openx.com, 537151308, DIRECT, 6a698e2ec38604c6
+openx.com, 537151308, DIRECT, c8eb2322b857bba6
 openx.com, 539007798, DIRECT, 6a698e2ec38604c6
+openx.com, 539007798, DIRECT, c8eb2322b857bba6
 openx.com, 539178623, DIRECT, 6a698e2ec38604c6
 openx.com, 540717754, DIRECT, 6a698e2ec38604c6
 openx.com, 540740819, DIRECT, 6a698e2ec38604c6
 openx.com, 544096208, DIRECT, 6a698e2ec38604c6
+openx.com, 78677, DIRECT, c8eb2322b857bba6
+pubmatic.com, 157288, DIRECT, 5d62403b186f2ace
+pubmatic.com, 157512, DIRECT, 5d62403b186f2ace
+rtb.selectmedia.asia, 271, DIRECT # banner, video
 rubiconproject.com, 11314, DIRECT, c8eb2322b857bba6
+rubiconproject.com, 11314, DIRECT,0bfd66d529a55807
 rubiconproject.com, 20760, DIRECT, 0bfd66d529a55
+rubiconproject.com, 20760, DIRECT, 0bfd66d529a55807
+rubiconproject.com, 23906, DIRECT, 0bfd66d529a55807
 teads.tv, 11543, DIRECT, 15a9c44f6d26cbe1
 teads.tv, 11545, DIRECT, 15a9c44f6d26cbe1
 teads.tv, 12105, DIRECT, 15a9c44f6d26cbe1
 teads.tv, 12108, DIRECT, 15a9c44f6d26cbe1
 teads.tv, 12118, DIRECT, 15a9c44f6d26cbe1
+triplelift.com, 2964, DIRECT, 6c33edb13117fd86
+triplelift.com, 3152, DIRECT, 6c33edb13117fd86
+triplelift.com, 3152, DIRECT, c8eb2322b857bba6
+triplelift.com, 3152-EB, DIRECT, 6c33edb13117fd86
 triplelift.com, 6723, DIRECT, 6c33edb13117fd86
 triplelift.com, 6723-EB, DIRECT, 6c33edb13117fd86
 xandr.com, 3844, DIRECT, f5ab79cb980f11d1
-yahoo.com, 100006, DIRECT, e1a5b5b6e3255540 
+yahoo.com, 100006, DIRECT, e1a5b5b6e3255540
+yieldmo.com, 1164496325591808848, DIRECT, c8eb2322b857bba6
+yieldmo.com, Healthline.com, DIRECT, c8eb2322b857bba6
+yourbow.com, 124, DIRECT
 
 #RESELLER#
+adtech.com, 7060, RESELLER
+advertising.com, 28230, RESELLER
+Advertising.com, 7060, RESELLER
 appnexus.com, 1019, RESELLER, f5ab79cb980f11d1
+Appnexus.com, 1356, RESELLER, f5ab79cb980f11d1
+appnexus.com, 1908, RESELLER, c8eb2322b857bba6
+appnexus.com, 1908, RESELLER, f5ab79cb980f11d1
 appnexus.com, 4052, RESELLER
+appnexus.com, 6979, RESELLER, f5ab79cb980f11d1
+appnexus.com, 7944, RESELLER, c8eb2322b857bba6
+contextweb.com, 560456, RESELLER, 89ff185a4c4e857c
+contextweb.com, 560456, RESELLER, 89ff185a4c4e857c 
 conversantmedia.com, 100658, RESELLER, 03113cd04947736d
 conversantmedia.com, 100659, RESELLER, 03113cd04947736d
 conversantmedia.com, 100660, RESELLER, 03113cd04947736d
@@ -50,18 +92,68 @@ conversantmedia.com, 100677, RESELLER, 03113cd04947736d
 conversantmedia.com, 100688, RESELLER, 03113cd04947736d
 conversantmedia.com, 100691, RESELLER, 03113cd04947736d
 conversantmedia.com, 100713, RESELLER, 03113cd04947736d
+conversantmedia.com, 41024, RESELLER
+coxmt.com, 2000067907202, RESELLER, c8eb2322b857bba6
+districtm.io, 100600, RESELLER
+districtm.io, 100600, RESELLER 
+EMXDGT.com, 1044, RESELLER 1e1d41537f7cad7f
+EMXDGT.com, 1044, RESELLER 1e1d41537f7cad7f 
+experian.com, EXP_724809_A, RESELLER, c8eb2322b857bba6
+freewheel.tv, 144617, RESELLER
+freewheel.tv, 144633, RESELLER
+freewheel.tv, 146905,RESELLER
+freewheel.tv, 146921, RESELLER
+freewheel.tv, 147281, RESELLER
+freewheel.tv, 147281, RESELLER 
+freewheel.tv, 147289, RESELLER
+freewheel.tv, 202433,RESELLER
+freewheel.tv, 202609, RESELLER
+freewheel.tv, 202681, RESELLER
+freewheel.tv, 202681, RESELLER 
+freewheel.tv, 202881, RESELLER
+freewheel.tv, 203225, RESELLER
+freewheel.tv, 203225, RESELLER 
+freewheel.tv, 846129, RESELLER
+freewheel.tv, 846145, RESELLER
+freewheel.tv, 890577, RESELLER
+freewheel.tv, 893377, RESELLER
+improvedigital.com, 1091, RESELLER
+indexexchange.com, 175407, RESELLER, c8eb2322b857bba6
+indexexchange.com, 184230, RESELLER, 50b1c356f2c5c8fc
 lijit.com, 411121, RESELLER, fafdf38b16bf6b2b #SOVRN
 openx.com, 537100188, RESELLER, 6a698e2ec38604c6
+openx.com, 537100188, RESELLER, 6a698e2ec38604c6 
+openx.com, 537143344, RESELLER, c8eb2322b857bba6
 openx.com, 537151308, RESELLER, 6a698e2ec38604c6
+openx.com, 538959099, RESELLER, 6a698e2ec38604c6
 openx.com, 539007798, RESELLER, 6a698e2ec38604c6
 openx.com, 539178623, RESELLER, 6a698e2ec38604c6
 openx.com, 540031703, RESELLER, 6a698e2ec38604c6
 openx.com, 540740819, RESELLER, 6a698e2ec38604c6
 openx.com, 544004848, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 137711, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156078, RESELLER, c8eb2322b857bba6
+pubmatic.com, 156212, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 15268, RESELLER
 rubiconproject.com, 17960, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 19396, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 20598, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 208661, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 23644, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 23844, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 26144, RESELLER, 0bfd66d529a55807
-rubiconproject.com,Â 23844, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 23844, RESELLER, 0bfd66d529a55807
+sharethrough.com, 0d60edd5, RESELLER
+sonobi.com, 83729e979b, RESELLER
+spotx.tv, 82810, RESELLER, 7842df1d2fe2db34
+spotxchange.com, 82810, RESELLER, 7842df1d2fe2db34
+tremorhub.com, 3e8fs, RESELLER, 1a4e959a1b50034a
+tremorhub.com, cguke-k8ex0, RESELLER, 1a4e959a1b50034a
+tremorhub.com, iq97d, RESELLER, 1a4e959a1b50034a
 yahoo.com, 55771, RESELLER, e1a5b5b6e3255540
-yahoo.com, 55771, RESELLER, e1a5b5b6e3255540
+pubmatic.com, 159463, RESELLER, 5d62403b186f2ace
+trustedstack.com, TS9V5HI46, RESELLER
+rubiconproject.com, 26144, RESELLER, 0bfd66d529a55807
+pubmatic.com, 164187, RESELLER, 5d62403b186f2ace
+onetag.com, 87f58fe90234d0e, RESELLER
+
