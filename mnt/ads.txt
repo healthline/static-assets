@@ -13,6 +13,8 @@ indexexchange.com, 180447, DIRECT, 50b1c356f2c5c8fc
 indexexchange.com, 190599, DIRECT, 50b1c356f2c5c8fc
 indexexchange.com, 192606, DIRECT, 50b1c356f2c5c8fc
 liveintent.com, 59293, DIRECT
+lijit.com, 284725, DIRECT, fafdf38b16bf6b2b #SOVRN
+lijit.com, 284725-eb, DIRECT, fafdf38b16bf6b2b #SOVRN
 Media.net, 8CU3MX12H, DIRECT
 media.net, 8CU7L2TG3, DIRECT
 media.net, 8CUPK277N, DIRECT
@@ -48,6 +50,7 @@ google.com, pub-0521848186422428, DIRECT, f08c47fec0942fa0
 rubiconproject.com, 23906, DIRECT, 0bfd66d529a55807
 indexexchange.com, 196803, DIRECT, 50b1c356f2c5c8fc
 triplelift.com, 6723, DIRECT, 6c33edb13117fd86
+
 #RESELLER#
 advertising.com, 28230, RESELLER
 Advertising.com, 7060, RESELLER
@@ -85,7 +88,6 @@ rubiconproject.com, 23844, RESELLER, 0bfd66d529a55807
 yahoo.com, 55771, RESELLER, e1a5b5b6e3255540
 pubmatic.com, 159463, RESELLER, 5d62403b186f2ace
 trustedstack.com, TS9V5HI46, RESELLER
-rubiconproject.com, 26144, RESELLER, 0bfd66d529a55807
 pubmatic.com, 164187, RESELLER, 5d62403b186f2ace
 onetag.com, 87f58fe90234d0e, RESELLER
 conversantmedia.com, 100662, RESELLER, 03113cd04947736d
@@ -123,31 +125,7 @@ freewheel.tv, 846145, RESELLER
 freewheel.tv, 890577, RESELLER
 freewheel.tv, 893377, RESELLER
 improvedigital.com, 1091, RESELLER
-indexexchange.com, 175407, RESELLER, c8eb2322b857bba6
-indexexchange.com, 184230, RESELLER, 50b1c356f2c5c8fc
 lijit.com, 411121, RESELLER, fafdf38b16bf6b2b #SOVRN
-openx.com, 537100188, RESELLER, 6a698e2ec38604c6
-openx.com, 537100188, RESELLER, 6a698e2ec38604c6 
-openx.com, 537143344, RESELLER, c8eb2322b857bba6
-openx.com, 537151308, RESELLER, 6a698e2ec38604c6
-openx.com, 538959099, RESELLER, 6a698e2ec38604c6
-openx.com, 539007798, RESELLER, 6a698e2ec38604c6
-openx.com, 539178623, RESELLER, 6a698e2ec38604c6
-openx.com, 540031703, RESELLER, 6a698e2ec38604c6
-openx.com, 540740819, RESELLER, 6a698e2ec38604c6
-openx.com, 544004848, RESELLER, 6a698e2ec38604c6
-pubmatic.com, 137711, RESELLER, 5d62403b186f2ace
-pubmatic.com, 156078, RESELLER, c8eb2322b857bba6
-pubmatic.com, 156212, RESELLER, 5d62403b186f2ace
-rubiconproject.com, 15268, RESELLER
-rubiconproject.com, 17960, RESELLER, 0bfd66d529a55807
-rubiconproject.com, 19396, RESELLER, 0bfd66d529a55807
-rubiconproject.com, 20598, RESELLER, 0bfd66d529a55807
-rubiconproject.com, 208661, RESELLER, 0bfd66d529a55807
-rubiconproject.com, 23644, RESELLER, 0bfd66d529a55807
-rubiconproject.com, 23844, RESELLER, 0bfd66d529a55807
-rubiconproject.com, 26144, RESELLER, 0bfd66d529a55807
-rubiconproject.com, 23844, RESELLER, 0bfd66d529a55807
 sharethrough.com, 0d60edd5, RESELLER
 sonobi.com, 83729e979b, RESELLER
 spotx.tv, 82810, RESELLER, 7842df1d2fe2db34
@@ -155,12 +133,9 @@ spotxchange.com, 82810, RESELLER, 7842df1d2fe2db34
 tremorhub.com, 3e8fs, RESELLER, 1a4e959a1b50034a
 tremorhub.com, cguke-k8ex0, RESELLER, 1a4e959a1b50034a
 tremorhub.com, iq97d, RESELLER, 1a4e959a1b50034a
-yahoo.com, 55771, RESELLER, e1a5b5b6e3255540
-pubmatic.com, 159463, RESELLER, 5d62403b186f2ace
-trustedstack.com, TS9V5HI46, RESELLER
-rubiconproject.com, 26144, RESELLER, 0bfd66d529a55807
-pubmatic.com, 164187, RESELLER, 5d62403b186f2ace
-onetag.com, 87f58fe90234d0e, RESELLER
+Contextweb.com, 563079, RESELLER, 89ff185a4c4e857c
+contextweb.com, 560456, RESELLER, 89ff185a4c4e857c
+
 
 
 
