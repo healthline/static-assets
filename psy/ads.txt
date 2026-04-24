@@ -286,7 +286,7 @@ xandr.com, 14082, RESELLER
 smaato.com, 1100057444, RESELLER, 07bcf65f187117b4
 
 #11f AdBridg Ozone
-The-ozone-project.com,OZONEADB0001, DIRECT
+the-ozone-project.com, OZONEADB0001, DIRECT
 appnexus.com, 9979, RESELLER
 openx.com, 540731760, RESELLER, 6a698e2ec38604c6
 pubmatic.com, 160557, RESELLER, 5d62403b186f2ace
