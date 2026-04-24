@@ -1,6 +1,6 @@
 OWNERDOMAIN=healthlinemedia.com
 MANAGERDOMAIN=adbridg.com
-#updated 3-26-26
+#updated 4-24-26
 # 1 AMAZON
 aps.amazon.com, 3083, DIRECT
 rubiconproject.com, 11314, DIRECT, 0bfd66d529a55807
@@ -257,7 +257,6 @@ sharethrough.com, LxFeZvU4, RESELLER, d53b998a7bd4ecd2
 teal.works, 0000032, DIRECT
 adyoulike.com, bdaeb9555246741d5e61ef369b736b77, RESELLER, 4ad745ead2958bf7
 criteo.com, B-078820, DIRECT, 9fac4a4a87c2a44f
-themediagrid.com, 9FRCA5, DIRECT, 35d5010d7789b49d
 smartadserver.com, 5385, RESELLER, 060d053dcf45cbf3
 ogury.com, 5075e6b5-06ab-4c7e-894e-a2510be7f04e, DIRECT
 pubmatic.com, 166748, RESELLER, 5d62403b186f2ace
@@ -265,3 +264,30 @@ rubiconproject.com, 27460, RESELLER, 0bfd66d529a55807
 appnexus.com, 7664, RESELLER, f5ab79cb980f11d1
 adform.com, 3296, RESELLER, 9f5210a2f0999e32
 media.net, 8CUTXFTRK, RESELLER
+themediagrid.com, 9FRCA5, RESELLER, 9fac4a4a87c2a44f
+adform.com, 3359, RESELLER, 9f5210a2f0999e32
+sharethrough.com, 5385, RESELLER, d53b998a7bd4ecd2
+ogury.com, 5075e6b5-06ab-4c7e-894e-a2510be7f04e, RESELLER
+risecodes.com, 677bc507f3a6d40001b51a16, RESELLER
+seedtag.com, 69d77c83632a460006237f45, RESELLER
+
+#11e AdBridg Rise
+risecodes.com, 679618f6f837b60001af60d3, DIRECT
+rubiconproject.com, 23876, RESELLER, 0bfd66d529a55807
+media.net, 8CUQ6928Q, RESELLER
+sharethrough.com, 5926d422, RESELLER, d53b998a7bd4ecd2
+sharethrough.com, 4284, RESELLER, d53b998a7bd4ecd2
+pubmatic.com, 160295, RESELLER, 5d62403b186f2ace
+openx.com, 537140488, RESELLER, 6a698e2ec38604c6
+themediagrid.com, HW1PGR, RESELLER, 9fac4a4a87c2a44f
+gumgum.com, 16112, RESELLER, ffdef49475d318a9
+triplelift.com, 12465, RESELLER, 6c33edb13117fd86
+xandr.com, 14082, RESELLER
+smaato.com, 1100057444, RESELLER, 07bcf65f187117b4
+
+#11f AdBridg Ozone
+the-ozone-project.com, OZONEADB0001, DIRECT
+appnexus.com, 9979, RESELLER
+openx.com, 540731760, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 160557, RESELLER, 5d62403b186f2ace
+indexexchange.com, 206233, RESELLER, 50b1c356f2c5c8fc
