@@ -1,6 +1,6 @@
 OWNERDOMAIN=healthlinemedia.com
 MANAGERDOMAIN=adbridg.com
-#updated 4-24-26
+#updated 4-29-26
 # 1 AMAZON
 aps.amazon.com, 3083, DIRECT
 rubiconproject.com, 11314, DIRECT, 0bfd66d529a55807
@@ -284,10 +284,3 @@ gumgum.com, 16112, RESELLER, ffdef49475d318a9
 triplelift.com, 12465, RESELLER, 6c33edb13117fd86
 xandr.com, 14082, RESELLER
 smaato.com, 1100057444, RESELLER, 07bcf65f187117b4
-
-#11f AdBridg Ozone
-the-ozone-project.com, OZONEADB0001, DIRECT
-appnexus.com, 9979, RESELLER
-openx.com, 540731760, RESELLER, 6a698e2ec38604c6
-pubmatic.com, 160557, RESELLER, 5d62403b186f2ace
-indexexchange.com, 206233, RESELLER, 50b1c356f2c5c8fc
