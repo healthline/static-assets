@@ -284,3 +284,7 @@ gumgum.com, 16112, RESELLER, ffdef49475d318a9
 triplelift.com, 12465, RESELLER, 6c33edb13117fd86
 xandr.com, 14082, RESELLER
 smaato.com, 1100057444, RESELLER, 07bcf65f187117b4
+smartadserver.com, 4284, RESELLER
+
+#11f AdBridg Pubmatic
+pubmatic.com, 166881, DIRECT, 5d62403b186f2ace
