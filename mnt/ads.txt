@@ -1,6 +1,6 @@
 OWNERDOMAIN=healthlinemedia.com
 MANAGERDOMAIN=adbridg.com
-#updated 4-29-26
+#updated 6-9-2026
 # 1 AMAZON
 aps.amazon.com, 3083, DIRECT
 rubiconproject.com, 11314, DIRECT, 0bfd66d529a55807
@@ -200,7 +200,7 @@ adbridg.com, 2418030, DIRECT
 themediagrid.com, GXYQO3, DIRECT, 9fac4a4a87c2a44f
 
 #11b AdBridg Kueez
-kueez.com, 88f5933a9dd5ea3f2cc57a60a3580861, RESELLER 
+kueez.com, 88f5933a9dd5ea3f2cc57a60a3580861, RESELLER
 appnexus.com,8826,reseller
 rubiconproject.com,16920,reseller
 openx.com,557564833,reseller
@@ -255,21 +255,20 @@ sharethrough.com, LxFeZvU4, RESELLER, d53b998a7bd4ecd2
 
 #11d AdBridg Teal
 teal.works, 0000032, DIRECT
-adyoulike.com, bdaeb9555246741d5e61ef369b736b77, RESELLER, 4ad745ead2958bf7
-criteo.com, B-078820, DIRECT, 9fac4a4a87c2a44f
-smartadserver.com, 5385, RESELLER, 060d053dcf45cbf3
-ogury.com, 5075e6b5-06ab-4c7e-894e-a2510be7f04e, DIRECT
-pubmatic.com, 166748, RESELLER, 5d62403b186f2ace
-rubiconproject.com, 27460, RESELLER, 0bfd66d529a55807
-appnexus.com, 7664, RESELLER, f5ab79cb980f11d1
-adform.com, 3296, RESELLER, 9f5210a2f0999e32
-media.net, 8CUTXFTRK, RESELLER
-themediagrid.com, 9FRCA5, RESELLER, 9fac4a4a87c2a44f
 adform.com, 3359, RESELLER, 9f5210a2f0999e32
+themediagrid.com, 9FRCA5, RESELLER, 9fac4a4a87c2a44f
+smartadserver.com, 5385, RESELLER, 060d053dcf45cbf3
 sharethrough.com, 5385, RESELLER, d53b998a7bd4ecd2
-ogury.com, 5075e6b5-06ab-4c7e-894e-a2510be7f04e, RESELLER
-risecodes.com, 677bc507f3a6d40001b51a16, RESELLER
-seedtag.com, 69d77c83632a460006237f45, RESELLER
+appnexus.com, 3703, RESELLER, f5ab79cb980f11d1
+inmobi.com, d2ebb2c439cc4ec1ab54d997258e40f0, RESELLER, 83e75a7ae333ca9d
+mintegral.com, 10003, RESELLER
+media.net, 8CUTXFTRK, RESELLER
+openx.com, 560937568, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 166748, RESELLER, 5d62403b186f2ace
+richaudience.com, xW0BZk5P6k, RESELLER
+rubiconproject.com, 27460, RESELLER, 0bfd66d529a55807
+triplelift.com, 13881, RESELLER, 6c33edb13117fd86
+video.unrulymedia.com, 720662119, RESELLER
 
 #11e AdBridg Rise
 risecodes.com, 679618f6f837b60001af60d3, DIRECT
@@ -288,3 +287,50 @@ smartadserver.com, 4284, RESELLER
 
 #11f AdBridg Pubmatic
 pubmatic.com, 166881, DIRECT, 5d62403b186f2ace
+
+#11g AdBridg MinuteMedia
+minutemedia.com, 01k222e7k955, DIRECT
+pubmatic.com, 161683, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 17598, RESELLER, 0bfd66d529a55807
+appnexus.com, 8381, RESELLER
+openx.com, 540780517,RESELLER, 6a698e2ec38604c6
+video.unrulymedia.com, 699546687, RESELLER
+triplelift.com, 6030 ,RESELLER, 6c33edb13117fd86
+sharethrough.com, xz7QjFBY, RESELLER, d53b998a7bd4ecd2
+yieldmo.com, 2954622693783052507, RESELLER
+admanmedia.com, 953, RESELLER
+33across.com, 0013300001jlr99AAA, RESELLER, bbea06d9c4d2853c
+onetag.com, 765b4e6bb9c8438, RESELLER
+lijit.com, 264726, RESELLER, fafdf38b16bf6b2b
+media.net, 8CUWNDO6S, RESELLER
+amxrtb.com, 105199663, RESELLER
+zetaglobal.net, 591, RESELLER
+adyoulike.com, 53264963677efeda057eef7db2cb305f, RESELLER
+sonobi.com, 37fbaf262c, RESELLER, d1a215d9eb5aee9e
+loopme.com, 11556, RESELLER, 6c8d5f95897a5a3b
+smartadserver.com, 4106, RESELLER, 060d053dcf45cbf3
+inmobi.com, 0dbf247dad584297bb489ded580cc6a1, RESELLER, 83e75a7ae333ca9d
+
+# 12 BLOCKTHROUGH
+blockthrough.com, 5654206581047296, DIRECT
+amxrtb.com, 105199664, RESELLER
+appnexus.com, 6979, RESELLER
+snigelweb.com, 7173, RESELLER
+rubiconproject.com, 14598, RESELLER, 0bfd66d529a55807
+lijit.com, 235520, RESELLER, fafdf38b16bf6b2b
+appnexus.com, 8738, RESELLER, f5ab79cb980f11d1
+themediagrid.com, 7E2DLW, RESELLER, 35d5010d7789b49d
+insticator.com, 5954e780-3109-4f11-9903-d80b3ec9068f, DIRECT, b3511ffcafb23a32
+indexexchange.com, 194341, RESELLER, 50b1c356f2c5c8fc
+nativo.com, 5758, DIRECT, 59521ca7cc5e9feea3b
+152media.info, 152M319, RESELLER
+pubmatic.com, 160377, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 23718, RESELLER, 0bfd66d529a55807
+sharethrough.com, 9zUewtvl, RESELLER, d53b998a7bd4ecd2
+smartadserver.com, 4485, RESELLER, 060d053dcf45cbf3
+sonobi.com, 3ac1bc6ff8, RESELLER, d1a215d9eb5aee9e
+contextweb.com, 560606, RESELLER, 89ff185a4c4e857c
+lijit.com, 251666, RESELLER, fafdf38b16bf6b2b
+trustedstack.com, TS3YM7Z35, RESELLER
+media.net, 8PR4460XU, RESELLER
+video.unrulymedia.com, 553875126, RESELLER
