@@ -1,6 +1,6 @@
 OWNERDOMAIN=healthlinemedia.com
 MANAGERDOMAIN=adbridg.com
-#updated 6-23-2026
+#updated 6-24-2026
 # 1 AMAZON
 aps.amazon.com, 3083, DIRECT
 rubiconproject.com, 11314, DIRECT, 0bfd66d529a55807
@@ -18,6 +18,7 @@ appnexus.com, 3844, DIRECT, f5ab79cb980f11d1
 aps.amazon.com, 3083, DIRECT
 c.amazon-adsystem.com, 3083, DIRECT, c8eb2322b857bba6
 facebook.com, 738762996262850, DIRECT, c8eb2322b857bba6
+google.com, pub-4771166113579725, DIRECT, f08c47fec0942fa0
 google.com, pub-0521848186422428, DIRECT, f08c47fec0942fa0
 google.com, pub-9428411717556527, DIRECT, f08c47fec0942fa0
 google.com, pub-9816692645014906, DIRECT, f08c47fec0942fa0
