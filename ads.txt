@@ -1,6 +1,6 @@
 OWNERDOMAIN=healthlinemedia.com
 MANAGERDOMAIN=adbridg.com
-#updated 6-23-2026
+#updated 8-6-2026
 # 1 AMAZON
 aps.amazon.com, 3083, DIRECT
 rubiconproject.com, 11314, DIRECT, 0bfd66d529a55807
@@ -18,6 +18,7 @@ appnexus.com, 3844, DIRECT, f5ab79cb980f11d1
 aps.amazon.com, 3083, DIRECT
 c.amazon-adsystem.com, 3083, DIRECT, c8eb2322b857bba6
 facebook.com, 738762996262850, DIRECT, c8eb2322b857bba6
+google.com, pub-4771166113579725, DIRECT, f08c47fec0942fa0
 google.com, pub-0521848186422428, DIRECT, f08c47fec0942fa0
 google.com, pub-9428411717556527, DIRECT, f08c47fec0942fa0
 google.com, pub-9816692645014906, DIRECT, f08c47fec0942fa0
@@ -184,22 +185,16 @@ healthlinemedia.com, 1, DIRECT
 rubiconproject.com, 11314, DIRECT, 0bfd66d529a55807
 rubiconproject.com, 11314, RESELLER, 0bfd66d529a55807
 
-# 9 TRIPLE LIFT
-triplelift.com, 6724, DIRECT, 6c33edb13117fd86
-triplelift.com, 9788, DIRECT, 6c33edb13117fd86
-triplelift.com, 3152, DIRECT, 6c33edb13117fd86
-triplelift.com, 6723, DIRECT, 6c33edb13117fd86
-
-# 10 ADAPT MX
+# 9 ADAPT MX
 amxrtb.com, 105199975, DIRECT
 
-# 11. ADBRIDG DEMAND
+# 10 ADBRIDG DEMAND
 adbridg.com, 2418030, DIRECT
 
-#11a AdBridg Criteo
+#10a AdBridg Criteo
 themediagrid.com, GXYQO3, DIRECT, 9fac4a4a87c2a44f
 
-#11b AdBridg Kueez
+#10b AdBridg Kueez
 kueez.com, 88f5933a9dd5ea3f2cc57a60a3580861, RESELLER
 appnexus.com,8826,reseller
 rubiconproject.com,16920,reseller
@@ -227,7 +222,7 @@ smaato.com, 1100004890, RESELLER, 07bcf65f187117b4
 tagoras.io, 88f5933a9dd5ea3f2cc57a60a3580861, DIRECT
 appnexus.com, 15623, RESELLER, f5ab79cb980f11d1
 
-#11c AdBridg OMS
+#10c AdBridg OMS
 onlinemediasolutions.com, 21071, DIRECT, b3868b187e4b6402
 rubiconproject.com, 20416, RESELLER, 0bfd66d529a55807
 onomagic.com, 210711, DIRECT
@@ -255,34 +250,36 @@ sharethrough.com, LxFeZvU4, RESELLER, d53b998a7bd4ecd2
 admanmedia.com, 2396, RESELLER
 yieldmo.com, 2757543169808605705, RESELLER
 spotim.market, e9a771d72c076dbe3cafc2c6477f9238, RESELLER, 077e5f709d15bdbb
+conversantmedia.com, 101273, RESELLER, 03113cd04947736d
+triplelift.com, 14829, RESELLER, 6c33edb13117fd86
 
-#11d AdBridg Teal
+#10d AdBridg Teal
 teal.works, 0000032, DIRECT
-adform.com, 3359, RESELLER, 9f5210a2f0999e32
-themediagrid.com, 9FRCA5, RESELLER, 9fac4a4a87c2a44f
-smartadserver.com, 5385, RESELLER, 060d053dcf45cbf3
-sharethrough.com, 5385, RESELLER, d53b998a7bd4ecd2
-appnexus.com, 3703, RESELLER, f5ab79cb980f11d1
-inmobi.com, d2ebb2c439cc4ec1ab54d997258e40f0, RESELLER, 83e75a7ae333ca9d
-mintegral.com, 10003, RESELLER
-media.net, 8CUTXFTRK, RESELLER
-openx.com, 560937568, RESELLER, 6a698e2ec38604c6
-pubmatic.com, 166748, RESELLER, 5d62403b186f2ace
-richaudience.com, xW0BZk5P6k, RESELLER
-rubiconproject.com, 27460, RESELLER, 0bfd66d529a55807
-triplelift.com, 13881, RESELLER, 6c33edb13117fd86
-video.unrulymedia.com, 720662119, RESELLER
 adyoulike.com, bdaeb9555246741d5e61ef369b736b77, RESELLER, 4ad745ead2958bf7
 criteo.com, B-078820, DIRECT, 9fac4a4a87c2a44f
-themediagrid.com, 9FRCA5, DIRECT, 35d5010d7789b49d
+smartadserver.com, 5385, RESELLER, 060d053dcf45cbf3
 ogury.com, 5075e6b5-06ab-4c7e-894e-a2510be7f04e, DIRECT
+pubmatic.com, 166748, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 27460, RESELLER, 0bfd66d529a55807
 appnexus.com, 7664, RESELLER, f5ab79cb980f11d1
 adform.com, 3296, RESELLER, 9f5210a2f0999e32
+media.net, 8CUTXFTRK, RESELLER
+themediagrid.com, 9FRCA5, RESELLER, 9fac4a4a87c2a44f
+adform.com, 3359, RESELLER, 9f5210a2f0999e32
+sharethrough.com, 5385, RESELLER, d53b998a7bd4ecd2
 ogury.com, 5075e6b5-06ab-4c7e-894e-a2510be7f04e, RESELLER
 risecodes.com, 677bc507f3a6d40001b51a16, RESELLER
 seedtag.com, 69d77c83632a460006237f45, RESELLER
+appnexus.com, 3703, RESELLER, f5ab79cb980f11d1
+inmobi.com, d2ebb2c439cc4ec1ab54d997258e40f0, RESELLER, 83e75a7ae333ca9d
+mintegral.com, 10003, RESELLER
+openx.com, 560937568, RESELLER, 6a698e2ec38604c6
+richaudience.com, xW0BZk5P6k, RESELLER
+triplelift.com, 13881, RESELLER, 6c33edb13117fd86
+video.unrulymedia.com, 720662119, RESELLER
+rubiconproject.com, 10278, RESELLER, 0bfd66d529a55807
 
-#11e AdBridg Rise
+#10e AdBridg Rise
 risecodes.com, 679618f6f837b60001af60d3, DIRECT
 rubiconproject.com, 23876, RESELLER, 0bfd66d529a55807
 media.net, 8CUQ6928Q, RESELLER
@@ -300,7 +297,7 @@ smartadserver.com, 4284, RESELLER
 #11f AdBridg Pubmatic
 pubmatic.com, 166881, DIRECT, 5d62403b186f2ace
 
-#11g AdBridg MinuteMedia
+#10g AdBridg MinuteMedia
 minutemedia.com, 01k222e7k955, DIRECT
 pubmatic.com, 161683, RESELLER, 5d62403b186f2ace
 rubiconproject.com, 17598, RESELLER, 0bfd66d529a55807
@@ -323,7 +320,7 @@ loopme.com, 11556, RESELLER, 6c8d5f95897a5a3b
 smartadserver.com, 4106, RESELLER, 060d053dcf45cbf3
 inmobi.com, 0dbf247dad584297bb489ded580cc6a1, RESELLER, 83e75a7ae333ca9d
 
-#11h AdBridg GumGum
+#10h AdBridg GumGum
 gumgum.com, 16144, RESELLER, ffdef49475d318a9
 rubiconproject.com, 23434, RESELLER, 0bfd66d529a55807
 pubmatic.com, 157897, RESELLER, 5d62403b186f2ace
@@ -335,26 +332,9 @@ smartadserver.com, 4005, RESELLER, 060d053dcf45cbf3
 admanmedia.com, 799, RESELLER
 appnexus.com, 2758, RESELLER, f5ab79cb980f11d1
 
-# 12 BLOCKTHROUGH
-blockthrough.com, 5654206581047296, DIRECT
-amxrtb.com, 105199664, RESELLER
-appnexus.com, 6979, RESELLER
-snigelweb.com, 7173, RESELLER
-rubiconproject.com, 14598, RESELLER, 0bfd66d529a55807
-lijit.com, 235520, RESELLER, fafdf38b16bf6b2b
-appnexus.com, 8738, RESELLER, f5ab79cb980f11d1
-themediagrid.com, 7E2DLW, RESELLER, 35d5010d7789b49d
-insticator.com, 5954e780-3109-4f11-9903-d80b3ec9068f, DIRECT, b3511ffcafb23a32
-indexexchange.com, 194341, RESELLER, 50b1c356f2c5c8fc
-nativo.com, 5758, DIRECT, 59521ca7cc5e9feea3b
-152media.info, 152M319, RESELLER
-pubmatic.com, 160377, RESELLER, 5d62403b186f2ace
-rubiconproject.com, 23718, RESELLER, 0bfd66d529a55807
-sharethrough.com, 9zUewtvl, RESELLER, d53b998a7bd4ecd2
-smartadserver.com, 4485, RESELLER, 060d053dcf45cbf3
-sonobi.com, 3ac1bc6ff8, RESELLER, d1a215d9eb5aee9e
-contextweb.com, 560606, RESELLER, 89ff185a4c4e857c
-lijit.com, 251666, RESELLER, fafdf38b16bf6b2b
-trustedstack.com, TS3YM7Z35, RESELLER
-media.net, 8PR4460XU, RESELLER
-video.unrulymedia.com, 553875126, RESELLER
+#10i AdBridg OneTag
+onetag.com, 94df333ccc51b08, DIRECT
+appnexus.com, 13099, RESELLER
+pubmatic.com, 161593, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 11006, RESELLER, 0bfd66d529a55807
+video.unrulymedia.com, 586616193, RESELLER
