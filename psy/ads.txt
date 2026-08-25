@@ -1,6 +1,6 @@
 OWNERDOMAIN=healthlinemedia.com
 MANAGERDOMAIN=adbridg.com
-#updated 8-6-2026
+#updated 8-26-2026
 # 1 AMAZON
 aps.amazon.com, 3083, DIRECT
 rubiconproject.com, 11314, DIRECT, 0bfd66d529a55807
@@ -338,3 +338,81 @@ appnexus.com, 13099, RESELLER
 pubmatic.com, 161593, RESELLER, 5d62403b186f2ace
 rubiconproject.com, 11006, RESELLER, 0bfd66d529a55807
 video.unrulymedia.com, 586616193, RESELLER
+
+#11 Connatix
+connatix.com, 2110284406118461, DIRECT, 2af98acdee0e81ed
+video.unrulymedia.com, 687806135, RESELLER
+google.com, pub-1929615694373103, RESELLER, f08c47fec0942fa0
+pubmatic.com, 156592, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 19564, RESELLER, 0bfd66d529a55807
+openx.com, 539496816, RESELLER, 6a698e2ec38604c6
+pmbmonetize.com, 22597229605, RESELLER
+google.com, pub-4836542095728076, RESELLER, f08c47fec0942fa0 #Positive
+opamarketplace.com, 22597229605, RESELLER
+google.com, pub-9135355251665930, RESELLER, f08c47fec0942fa0 #Opa
+adipolosolutions.com, 22597229605, RESELLER
+google.com, pub-4903453974745530, RESELLER, f08c47fec0942fa0 #APL
+adipolo.com, 22597229605, RESELLER
+google.com, pub-2930805104418204, RESELLER, f08c47fec0942fa0 #GreeterAPL
+smartadline.com, 22703897216, RESELLER
+google.com, pub-6804276076764268, RESELLER, f08c47fec0942fa0
+appnexus.com, 16912, RESELLER, f5ab79cb980f11d1
+indexexchange.com, 190549, RESELLER, 50b1c356f2c5c8fc
+media.net, 8CUP5F2LD, RESELLER
+smartadserver.com, 3630, RESELLER
+triplelift.com, 12200, RESELLER, 6c33edb13117fd86
+risecodes.com, 60053eeffc482800014c29be, RESELLER
+pubmatic.com, 160295, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 23876, RESELLER, 0bfd66d529a55807
+sharethrough.com, 5926d422, RESELLER, d53b998a7bd4ecd2
+triplelift.com, 12465, RESELLER, 6c33edb13117fd86
+video.unrulymedia.com, 335119963, RESELLER
+appnexus.com, 17444, RESELLER, f5ab79cb980f11d1
+ottadvisors.com, 23208720669, RESELLER
+video.unrulymedia.com, 776418614052335749, RESELLER
+gannett.com, 22597229605, RESELLER
+google.com, pub-5717092533913515, RESELLER, f08c47fec0942fa0 #NPMpartners
+copper6.com, 764227, RESELLER
+pubmatic.com, 165854, RESELLER, 5d62403b186f2ace
+carliba.io, 184080, RESELLER
+rubiconproject.com, 27963, RESELLER, 0bfd66d529a55807
+aps.amazon.com, ec4e8edf-c46b-44a1-bcab-17b3a4420b9a, RESELLER
+rubiconproject.com, 26360, RESELLER, 0bfd66d529a55807
+xandr.com, 16546, RESELLER
+inmobi.com, 64d831e7ed4840ac8ea2283745f07d75, RESELLER, 83e75a7ae333ca9d
+pmc.com, 1243442, RESELLER, 8dd52f825890bb44
+rubiconproject.com, 10278, RESELLER, 0bfd66d529a55807
+gumgum.com, 12991, RESELLER, ffdef49475d318a9
+loopme.com, 11186, RESELLER, 6c8d5f95897a5a3b
+sharethrough.com, 3630, RESELLER, d53b998a7bd4ecd2
+adform.com, 3124, RESELLER
+smaato.com, 1100055555, RESELLER, 07bcf65f187117b4
+freewheel.tv, sg1256478, RESELLER
+freewheel.tv, 535072-r-523319, RESELLER
+freewheel.tv, 535072-r-524565, RESELLER
+themediagrid.com, PCE1BO, RESELLER, 35d5010d7789b49d
+nativo.com, 6047, RESELLER, 59521ca7cc5e9fee
+contextweb.com, 561340, RESELLER, 89ff185a4c4e857c
+league-m.de, 116, RESELLER
+smartclip.net, 14234, RESELLER
+bidgx.com, 62885, RESELLER #DirectDemand
+rubiconproject.com, 27034, RESELLER, 0bfd66d529a55807 #PMPDeals
+stroeer.com, 26488, RESELLER
+xandr.com, 1405, RESELLER
+adform.com, 716, RESELLER
+pubmatic.com, 162369, RESELLER, 5d62403b186f2ace
+goldvertise.com, 70689, RESELLER
+telaria.com, 9l6ha-cpa8z, RESELLER, 1a4e959a1b50034a
+tremorhub.com, 9l6ha-cpa8z, RESELLER, 1a4e959a1b50034a
+freewheel.tv, sg1306821, RESELLER
+freewheel.tv, 543776-r-524565, RESELLER
+rubiconproject.com, 16392, RESELLER, 0bfd66d529a55807
+pubmatic.com, 162439, RESELLER, 5d62403b186f2ace
+pubmatic.com, 166671, RESELLER, 5d62403b186f2ace
+video.unrulymedia.com, 998559956, RESELLER
+axonix.com, 59108, RESELLER, bc385f2b4a87b721
+blis.com, 1241, RESELLER, 61453ae19a4b73f4
+rubiconproject.com, 16928, RESELLER, 0bfd66d529a55807
+trustedstack.com, TSRIFIRO2, RESELLER
+conversantmedia.com, 42111, RESELLER, 03113cd04947736d
+sonobi.com, 2b12be22c9, RESELLER, d1a215d9eb5aee9e
