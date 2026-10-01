@@ -1,6 +1,6 @@
 OWNERDOMAIN=healthlinemedia.com
 MANAGERDOMAIN=adbridg.com
-#updated 9-1-2026
+#updated 9-30-2026
 # 1 AMAZON
 aps.amazon.com, 3083, DIRECT
 rubiconproject.com, 11314, DIRECT, 0bfd66d529a55807
@@ -155,6 +155,7 @@ trustedstack.com, TS9V5HI46, RESELLER
 rubiconproject.com, 26144, RESELLER, 0bfd66d529a55807
 pubmatic.com, 164187, RESELLER, 5d62403b186f2ace
 onetag.com, 87f58fe90234d0e, RESELLER
+media.net, 8CABA3K2D, DIRECT
 
 # 5 OPENX
 openx.com, 539007798, DIRECT, 6a698e2ec38604c6
@@ -415,11 +416,3 @@ rubiconproject.com, 16928, RESELLER, 0bfd66d529a55807
 trustedstack.com, TSRIFIRO2, RESELLER
 conversantmedia.com, 42111, RESELLER, 03113cd04947736d
 sonobi.com, 2b12be22c9, RESELLER, d1a215d9eb5aee9e
-
-
-
-
-
-
-
-
